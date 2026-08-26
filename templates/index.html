@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AgroTrack - Agricultural Price Prediction</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f1f5f2;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 850px;
+            margin: 40px auto;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 25px;
+        }
+
+        .header h1 {
+            margin-bottom: 8px;
+            font-size: 36px;
+        }
+
+        .header p {
+            color: #666;
+            font-size: 18px;
+        }
+
+        .card {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.12);
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        .form-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 18px;
+        }
+
+        .field label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 7px;
+        }
+
+        .field input {
+            width: 100%;
+            padding: 11px;
+            border: 1px solid #ccc;
+            border-radius: 7px;
+            font-size: 15px;
+        }
+
+        button {
+            width: 100%;
+            margin-top: 25px;
+            padding: 13px;
+            border: none;
+            border-radius: 7px;
+            background: #2e7d32;
+            color: white;
+            font-size: 17px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #1b5e20;
+        }
+
+        .result {
+            margin-top: 30px;
+            text-align: center;
+            padding: 20px;
+            border-radius: 10px;
+            background: #e8f5e9;
+        }
+
+        .error {
+            margin-top: 20px;
+            text-align: center;
+            color: #c62828;
+            font-weight: bold;
+        }
+
+        @media (max-width: 650px) {
+            .form-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="header">
+        <h1>🌾 AgroTrack</h1>
+        <p>Agricultural Market Price Intelligence</p>
+    </div>
+
+    <div class="card">
+
+        <h2>Price Prediction</h2>
+
+        <form method="POST">
+
+            <div class="form-grid">
+
+                <div class="field">
+                    <label>Crop</label>
+                    <input type="text" name="crop" required>
+                </div>
+
+                <div class="field">
+                    <label>Market</label>
+                    <input type="text" name="market" required>
+                </div>
+
+                <div class="field">
+                    <label>District</label>
+                    <input type="text" name="district" required>
+                </div>
+
+                <div class="field">
+                    <label>Quantity</label>
+                    <input type="number" name="quantity" required>
+                </div>
+
+                <div class="field">
+                    <label>Year</label>
+                    <input type="number" name="year" value="2026" required>
+                </div>
+
+                <div class="field">
+                    <label>Month</label>
+                    <input type="number" name="month" min="1" max="12" value="8" required>
+                </div>
+
+                <div class="field">
+                    <label>Day</label>
+                    <input type="number" name="day" min="1" max="31" value="26" required>
+                </div>
+
+            </div>
+
+            <button type="submit">Predict Market Price</button>
+
+        </form>
+
+        {% if prediction is not none %}
+        <div class="result">
+            <h2>Predicted Market Price</h2>
+            <h1>₹ {{ "%.2f"|format(prediction) }}</h1>
+        </div>
+        {% endif %}
+
+        {% if error %}
+        <div class="error">
+            {{ error }}
+        </div>
+        {% endif %}
+
+    </div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,1001 @@
+Date,Crop,Category,Market,District,State,Min_Price,Max_Price,Modal_Price,Quantity
+2024-01-01,Watermelon,Fruits,Dharwad APMC,Tumakuru,Karnataka,2492,16950,7584,290
+2024-01-02,Cabbage,Vegetables,Mysuru APMC,Chikkamagaluru,Karnataka,1660,16967,8949,804
+2024-01-03,Sunflower,Oilseeds,Hassan APMC,Mysuru,Karnataka,2348,30773,14483,579
+2024-01-04,Green Gram,Pulses,Chikkamagaluru APMC,Chitradurga,Karnataka,8851,47124,34294,532
+2024-01-05,Cotton,Commercial Crops,Shivamogga APMC,Belagavi,Karnataka,8156,56662,23890,236
+2024-01-06,Watermelon,Fruits,Dharwad APMC,Hassan,Karnataka,3044,18712,12094,907
+2024-01-07,Copra,Plantation,Davanagere APMC,Tumakuru,Karnataka,8368,44302,21775,705
+2024-01-08,Tomato,Vegetables,Dharwad APMC,Davangere,Karnataka,4516,22213,12084,311
+2024-01-09,Horse Gram,Pulses,Thirthahalli APMC,Vijayapura,Karnataka,5577,39994,21622,413
+2024-01-10,Horse Gram,Pulses,Shivamogga APMC,Davangere,Karnataka,1727,28173,19266,540
+2024-01-11,Onion,Vegetables,Mysuru APMC,Tumakuru,Karnataka,8468,29219,16707,480
+2024-01-12,Guava,Fruits,Hubballi APMC,Davangere,Karnataka,1342,18694,7181,288
+2024-01-13,Turmeric,Commercial Crops,Hubballi APMC,Chitradurga,Karnataka,2447,25963,12500,353
+2024-01-14,Onion,Vegetables,Hassan APMC,Mysuru,Karnataka,7581,40880,18965,347
+2024-01-15,Jola (Jowar),Cereals,Hassan APMC,Davangere,Karnataka,7317,49274,22062,125
+2024-01-16,Tobacco,Commercial Crops,Bengaluru APMC,Dharwad,Karnataka,1526,40453,22139,749
+2024-01-17,Rice (Akki),Cereals,Hassan APMC,Belagavi,Karnataka,7748,54160,22802,382
+2024-01-18,Onion,Vegetables,Sagar APMC,Davangere,Karnataka,1405,40898,13742,949
+2024-01-19,Cauliflower,Vegetables,Chikkamagaluru APMC,Belagavi,Karnataka,8986,45697,30490,807
+2024-01-20,Grapes,Fruits,Chitradurga APMC,Kalaburagi,Karnataka,4740,22743,12745,691
+2024-01-21,Rice (Akki),Cereals,Bhadravati APMC,Bengaluru,Karnataka,2846,44553,17450,523
+2024-01-22,Cotton,Commercial Crops,Tumakuru APMC,Shivamogga,Karnataka,2478,15756,7808,876
+2024-01-23,Banana,Fruits,Kalaburagi APMC,Mysuru,Karnataka,1771,19067,11402,972
+2024-01-24,Cowpea,Pulses,Bhadravati APMC,Chitradurga,Karnataka,6525,41923,21046,332
+2024-01-25,Tobacco,Commercial Crops,Raichur APMC,Shivamogga,Karnataka,9770,55612,32591,640
+2024-01-26,Potato,Vegetables,Chikkamagaluru APMC,Chitradurga,Karnataka,1193,24454,9304,121
+2024-01-27,Beans,Vegetables,Udupi APMC,Bengaluru,Karnataka,3007,24180,14340,312
+2024-01-28,Brinjal,Vegetables,Tumakuru APMC,Chitradurga,Karnataka,2185,42634,19434,752
+2024-01-29,Soybean,Oilseeds,Chitradurga APMC,Kalaburagi,Karnataka,3394,15031,9804,928
+2024-01-30,Sunflower,Oilseeds,Shivamogga APMC,Mysuru,Karnataka,5005,46786,31050,936
+2024-01-31,Jola (Jowar),Cereals,Raichur APMC,Tumakuru,Karnataka,8429,32081,21311,991
+2024-02-01,Pomegranate,Fruits,Chikkamagaluru APMC,Tumakuru,Karnataka,3261,18364,9579,624
+2024-02-02,Toor Dal,Pulses,Kalaburagi APMC,Belagavi,Karnataka,4736,40236,19018,941
+2024-02-03,Cotton,Commercial Crops,Raichur APMC,Bengaluru,Karnataka,7716,52516,27023,61
+2024-02-04,Black Gram,Pulses,Tumakuru APMC,Belagavi,Karnataka,5875,51404,22532,190
+2024-02-05,Watermelon,Fruits,Raichur APMC,Kalaburagi,Karnataka,9921,38373,20518,815
+2024-02-06,Coconut,Plantation,Hassan APMC,Hassan,Karnataka,5378,46552,30753,604
+2024-02-07,Maize,Cereals,Raichur APMC,Davangere,Karnataka,8815,54251,29438,66
+2024-02-08,Potato,Vegetables,Mysuru APMC,Udupi,Karnataka,4451,30405,16764,112
+2024-02-09,Sesame,Oilseeds,Raichur APMC,Hassan,Karnataka,8616,35802,23232,302
+2024-02-10,Black Gram,Pulses,Tumakuru APMC,Davangere,Karnataka,3800,26156,15780,514
+2024-02-11,Carrot,Vegetables,Shivamogga APMC,Mysuru,Karnataka,9333,52296,23380,425
+2024-02-12,Rice (Akki),Cereals,Belagavi APMC,Belagavi,Karnataka,6410,18597,14120,853
+2024-02-13,Sugarcane,Commercial Crops,Raichur APMC,Mysuru,Karnataka,2455,24162,10507,569
+2024-02-14,Brinjal,Vegetables,Belagavi APMC,Kalaburagi,Karnataka,7892,52990,34465,886
+2024-02-15,Toor Dal,Pulses,Vijayapura APMC,Raichur,Karnataka,6808,43743,29304,139
+2024-02-16,Green Gram,Pulses,Mysuru APMC,Raichur,Karnataka,7796,39021,26093,769
+2024-02-17,Papaya,Fruits,Kalaburagi APMC,Raichur,Karnataka,5796,19402,13029,853
+2024-02-18,Sesame,Oilseeds,Shivamogga APMC,Kalaburagi,Karnataka,6093,48921,19192,845
+2024-02-19,Arecanut (Betel Nut),Plantation,Dharwad APMC,Chitradurga,Karnataka,2325,38814,18532,679
+2024-02-20,Guava,Fruits,Hubballi APMC,Mysuru,Karnataka,5976,30363,19192,910
+2024-02-21,Turmeric,Commercial Crops,Kalaburagi APMC,Davangere,Karnataka,2159,16086,8496,224
+2024-02-22,Maize,Cereals,Bhadravati APMC,Kalaburagi,Karnataka,5650,21946,16167,125
+2024-02-23,Rice (Akki),Cereals,Raichur APMC,Raichur,Karnataka,5987,46431,23116,662
+2024-02-24,Bajra,Cereals,Kalaburagi APMC,Bengaluru,Karnataka,5697,18288,10953,975
+2024-02-25,Maize,Cereals,Chitradurga APMC,Kalaburagi,Karnataka,1340,37487,16030,712
+2024-02-26,Cabbage,Vegetables,Thirthahalli APMC,Vijayapura,Karnataka,4828,53717,26002,449
+2024-02-27,Coconut,Plantation,Shivamogga APMC,Chitradurga,Karnataka,2968,14168,8825,831
+2024-02-28,Carrot,Vegetables,Mysuru APMC,Davangere,Karnataka,1703,27424,16693,120
+2024-02-29,Mango,Fruits,Tumakuru APMC,Raichur,Karnataka,6482,35720,23002,229
+2024-03-01,Bengal Gram,Pulses,Sagar APMC,Chikkamagaluru,Karnataka,7376,28463,20515,173
+2024-03-02,Guava,Fruits,Bengaluru APMC,Tumakuru,Karnataka,2800,43616,29509,430
+2024-03-03,Sesame,Oilseeds,Bengaluru APMC,Tumakuru,Karnataka,6463,39871,27391,342
+2024-03-04,Green Chilli,Vegetables,Dharwad APMC,Hassan,Karnataka,5912,55652,21211,846
+2024-03-05,Sunflower,Oilseeds,Bhadravati APMC,Tumakuru,Karnataka,5648,15784,11673,244
+2024-03-06,Green Gram,Pulses,Shivamogga APMC,Davangere,Karnataka,1855,29268,12364,960
+2024-03-07,Sesame,Oilseeds,Kalaburagi APMC,Dharwad,Karnataka,3866,32844,14100,277
+2024-03-08,Tomato,Vegetables,Tumakuru APMC,Belagavi,Karnataka,1182,11843,7103,480
+2024-03-09,Turmeric,Commercial Crops,Mysuru APMC,Davangere,Karnataka,4112,49352,23470,991
+2024-03-10,Cotton,Commercial Crops,Shivamogga APMC,Chitradurga,Karnataka,6670,43923,18697,485
+2024-03-11,Soybean,Oilseeds,Sagar APMC,Vijayapura,Karnataka,5492,42376,18588,836
+2024-03-12,Coconut,Plantation,Mysuru APMC,Davangere,Karnataka,6823,49677,19695,510
+2024-03-13,Onion,Vegetables,Hubballi APMC,Kalaburagi,Karnataka,2517,23221,16208,667
+2024-03-14,Carrot,Vegetables,Davanagere APMC,Udupi,Karnataka,6002,54989,21180,70
+2024-03-15,Potato,Vegetables,Sagar APMC,Belagavi,Karnataka,2356,36883,15607,113
+2024-03-16,Cabbage,Vegetables,Shivamogga APMC,Chikkamagaluru,Karnataka,4629,30951,16908,214
+2024-03-17,Sunflower,Oilseeds,Hubballi APMC,Tumakuru,Karnataka,4628,21596,12139,76
+2024-03-18,Ragi,Cereals,Mysuru APMC,Belagavi,Karnataka,9210,46728,34148,360
+2024-03-19,Potato,Vegetables,Bhadravati APMC,Tumakuru,Karnataka,7132,45018,19108,334
+2024-03-20,Toor Dal,Pulses,Sagar APMC,Hassan,Karnataka,7588,19288,13495,709
+2024-03-21,Black Gram,Pulses,Dharwad APMC,Belagavi,Karnataka,4311,42557,26195,330
+2024-03-22,Onion,Vegetables,Dharwad APMC,Raichur,Karnataka,7048,52516,37633,887
+2024-03-23,Ragi,Cereals,Chikkamagaluru APMC,Chitradurga,Karnataka,7246,40445,25444,880
+2024-03-24,Green Gram,Pulses,Vijayapura APMC,Chitradurga,Karnataka,1987,44102,28162,213
+2024-03-25,Onion,Vegetables,Thirthahalli APMC,Tumakuru,Karnataka,4321,19841,9497,947
+2024-03-26,Horse Gram,Pulses,Davanagere APMC,Chikkamagaluru,Karnataka,5615,52070,26723,967
+2024-03-27,Arecanut (Betel Nut),Plantation,Dharwad APMC,Raichur,Karnataka,9365,40294,23270,273
+2024-03-28,Green Gram,Pulses,Vijayapura APMC,Shivamogga,Karnataka,4741,29696,21074,833
+2024-03-29,Papaya,Fruits,Kalaburagi APMC,Mysuru,Karnataka,4052,27969,12675,195
+2024-03-30,Papaya,Fruits,Tumakuru APMC,Mysuru,Karnataka,7574,22331,12898,999
+2024-03-31,Banana,Fruits,Bengaluru APMC,Chikkamagaluru,Karnataka,1726,24771,11668,917
+2024-04-01,Wheat,Cereals,Tumakuru APMC,Udupi,Karnataka,4760,19493,9501,79
+2024-04-02,Watermelon,Fruits,Shivamogga APMC,Shivamogga,Karnataka,6806,47760,22081,94
+2024-04-03,Brinjal,Vegetables,Vijayapura APMC,Hassan,Karnataka,2875,44010,31097,836
+2024-04-04,Toor Dal,Pulses,Thirthahalli APMC,Chikkamagaluru,Karnataka,7993,25074,16043,520
+2024-04-05,Black Gram,Pulses,Kalaburagi APMC,Raichur,Karnataka,5033,38534,23553,83
+2024-04-06,Green Gram,Pulses,Bhadravati APMC,Mysuru,Karnataka,6443,37556,24813,702
+2024-04-07,Cowpea,Pulses,Shivamogga APMC,Kalaburagi,Karnataka,1989,46430,21845,476
+2024-04-08,Mango,Fruits,Hubballi APMC,Mysuru,Karnataka,4744,39434,17194,879
+2024-04-09,Banana,Fruits,Davanagere APMC,Mysuru,Karnataka,9611,48956,24666,935
+2024-04-10,Tomato,Vegetables,Chikkamagaluru APMC,Raichur,Karnataka,1593,38422,17257,270
+2024-04-11,Onion,Vegetables,Bengaluru APMC,Bengaluru,Karnataka,2774,47836,27758,917
+2024-04-12,Pomegranate,Fruits,Bhadravati APMC,Chikkamagaluru,Karnataka,1935,15565,8195,583
+2024-04-13,Papaya,Fruits,Sagar APMC,Davangere,Karnataka,4808,46678,17483,741
+2024-04-14,Turmeric,Commercial Crops,Udupi APMC,Hassan,Karnataka,1331,14784,8183,997
+2024-04-15,Tobacco,Commercial Crops,Davanagere APMC,Mysuru,Karnataka,8922,56197,40530,416
+2024-04-16,Beans,Vegetables,Davanagere APMC,Chitradurga,Karnataka,3702,52098,33941,981
+2024-04-17,Papaya,Fruits,Chitradurga APMC,Kalaburagi,Karnataka,6889,25217,18437,890
+2024-04-18,Ragi,Cereals,Hassan APMC,Tumakuru,Karnataka,6054,31588,21835,792
+2024-04-19,Papaya,Fruits,Bhadravati APMC,Chikkamagaluru,Karnataka,4868,34612,17643,964
+2024-04-20,Pomegranate,Fruits,Udupi APMC,Vijayapura,Karnataka,5200,34589,23012,599
+2024-04-21,Sesame,Oilseeds,Sagar APMC,Raichur,Karnataka,1201,47521,17749,631
+2024-04-22,Jola (Jowar),Cereals,Udupi APMC,Bengaluru,Karnataka,3497,48507,28842,165
+2024-04-23,Ragi,Cereals,Raichur APMC,Chitradurga,Karnataka,2842,27507,16571,288
+2024-04-24,Wheat,Cereals,Bengaluru APMC,Chikkamagaluru,Karnataka,5658,53523,20507,384
+2024-04-25,Carrot,Vegetables,Dharwad APMC,Hassan,Karnataka,8544,27184,20011,490
+2024-04-26,Sesame,Oilseeds,Raichur APMC,Kalaburagi,Karnataka,8718,53434,38289,197
+2024-04-27,Watermelon,Fruits,Kalaburagi APMC,Bengaluru,Karnataka,1770,37291,16226,58
+2024-04-28,Beans,Vegetables,Raichur APMC,Hassan,Karnataka,4155,44204,29184,337
+2024-04-29,Black Gram,Pulses,Dharwad APMC,Chitradurga,Karnataka,2628,18246,7828,437
+2024-04-30,Sunflower,Oilseeds,Hassan APMC,Chikkamagaluru,Karnataka,1386,48390,26768,99
+2024-05-01,Sunflower,Oilseeds,Mysuru APMC,Davangere,Karnataka,7031,18951,12923,899
+2024-05-02,Carrot,Vegetables,Bhadravati APMC,Chitradurga,Karnataka,7439,21627,14794,566
+2024-05-03,Groundnut,Oilseeds,Belagavi APMC,Vijayapura,Karnataka,7401,29608,22290,965
+2024-05-04,Capsicum,Vegetables,Tumakuru APMC,Hassan,Karnataka,5008,15246,11648,904
+2024-05-05,Watermelon,Fruits,Hassan APMC,Bengaluru,Karnataka,3466,46438,29852,687
+2024-05-06,Capsicum,Vegetables,Chikkamagaluru APMC,Bengaluru,Karnataka,3282,24081,11799,636
+2024-05-07,Maize,Cereals,Dharwad APMC,Hassan,Karnataka,2856,18408,13194,726
+2024-05-08,Cauliflower,Vegetables,Thirthahalli APMC,Dharwad,Karnataka,8980,47896,22173,327
+2024-05-09,Pomegranate,Fruits,Belagavi APMC,Chikkamagaluru,Karnataka,2998,17925,12571,885
+2024-05-10,Tomato,Vegetables,Bhadravati APMC,Dharwad,Karnataka,6476,44440,22849,349
+2024-05-11,Watermelon,Fruits,Davanagere APMC,Udupi,Karnataka,5669,26833,12473,851
+2024-05-12,Sunflower,Oilseeds,Chikkamagaluru APMC,Chikkamagaluru,Karnataka,5318,52476,32092,638
+2024-05-13,Cabbage,Vegetables,Chitradurga APMC,Hassan,Karnataka,8064,37135,19475,859
+2024-05-14,Guava,Fruits,Kalaburagi APMC,Shivamogga,Karnataka,8446,24606,14868,698
+2024-05-15,Groundnut,Oilseeds,Bengaluru APMC,Kalaburagi,Karnataka,2431,28241,13334,667
+2024-05-16,Capsicum,Vegetables,Thirthahalli APMC,Hassan,Karnataka,6624,21750,11547,656
+2024-05-17,Toor Dal,Pulses,Hassan APMC,Dharwad,Karnataka,8461,48470,23298,184
+2024-05-18,Tobacco,Commercial Crops,Chitradurga APMC,Davangere,Karnataka,2819,46403,15984,629
+2024-05-19,Brinjal,Vegetables,Bhadravati APMC,Kalaburagi,Karnataka,2130,37526,19055,196
+2024-05-20,Rice (Akki),Cereals,Raichur APMC,Hassan,Karnataka,7563,17755,10964,539
+2024-05-21,Bajra,Cereals,Davanagere APMC,Hassan,Karnataka,3658,50071,30255,527
+2024-05-22,Brinjal,Vegetables,Chitradurga APMC,Davangere,Karnataka,4500,27316,13495,208
+2024-05-23,Brinjal,Vegetables,Udupi APMC,Hassan,Karnataka,9566,58648,42816,433
+2024-05-24,Sugarcane,Commercial Crops,Bengaluru APMC,Kalaburagi,Karnataka,3120,45250,30441,212
+2024-05-25,Cauliflower,Vegetables,Chitradurga APMC,Mysuru,Karnataka,5020,51488,24340,490
+2024-05-26,Horse Gram,Pulses,Mysuru APMC,Shivamogga,Karnataka,4259,44957,29219,902
+2024-05-27,Brinjal,Vegetables,Bhadravati APMC,Tumakuru,Karnataka,2823,23478,15656,238
+2024-05-28,Potato,Vegetables,Udupi APMC,Shivamogga,Karnataka,2474,42549,30311,464
+2024-05-29,Watermelon,Fruits,Belagavi APMC,Raichur,Karnataka,3242,22601,13679,388
+2024-05-30,Banana,Fruits,Tumakuru APMC,Vijayapura,Karnataka,4243,50904,19771,656
+2024-05-31,Ragi,Cereals,Bengaluru APMC,Hassan,Karnataka,7990,57569,35692,230
+2024-06-01,Beans,Vegetables,Belagavi APMC,Mysuru,Karnataka,6160,49432,29959,337
+2024-06-02,Groundnut,Oilseeds,Raichur APMC,Chikkamagaluru,Karnataka,4134,28805,17835,883
+2024-06-03,Jola (Jowar),Cereals,Dharwad APMC,Hassan,Karnataka,3070,40118,18736,236
+2024-06-04,Watermelon,Fruits,Bhadravati APMC,Dharwad,Karnataka,1359,22097,14712,933
+2024-06-05,Bajra,Cereals,Chikkamagaluru APMC,Chitradurga,Karnataka,2141,38104,26732,187
+2024-06-06,Green Gram,Pulses,Shivamogga APMC,Mysuru,Karnataka,2635,19408,9128,179
+2024-06-07,Beans,Vegetables,Thirthahalli APMC,Davangere,Karnataka,5000,51584,20618,243
+2024-06-08,Black Gram,Pulses,Chikkamagaluru APMC,Mysuru,Karnataka,4361,44255,19434,365
+2024-06-09,Pomegranate,Fruits,Mysuru APMC,Raichur,Karnataka,7583,18300,14316,834
+2024-06-10,Banana,Fruits,Chikkamagaluru APMC,Davangere,Karnataka,8835,30511,21205,913
+2024-06-11,Onion,Vegetables,Thirthahalli APMC,Udupi,Karnataka,1006,15440,9008,193
+2024-06-12,Sunflower,Oilseeds,Raichur APMC,Tumakuru,Karnataka,4267,52092,26301,65
+2024-06-13,Capsicum,Vegetables,Tumakuru APMC,Belagavi,Karnataka,7564,46664,28331,351
+2024-06-14,Capsicum,Vegetables,Mysuru APMC,Kalaburagi,Karnataka,5928,20922,12273,472
+2024-06-15,Onion,Vegetables,Sagar APMC,Mysuru,Karnataka,3606,17840,10593,294
+2024-06-16,Cowpea,Pulses,Bhadravati APMC,Kalaburagi,Karnataka,6906,20670,15401,976
+2024-06-17,Watermelon,Fruits,Hubballi APMC,Bengaluru,Karnataka,4273,51678,37101,156
+2024-06-18,Rice (Akki),Cereals,Davanagere APMC,Dharwad,Karnataka,8611,53483,38810,137
+2024-06-19,Jola (Jowar),Cereals,Shivamogga APMC,Hassan,Karnataka,1913,35098,24265,178
+2024-06-20,Pomegranate,Fruits,Thirthahalli APMC,Dharwad,Karnataka,3011,25010,13150,956
+2024-06-21,Arecanut (Betel Nut),Plantation,Hubballi APMC,Kalaburagi,Karnataka,2442,48929,25105,936
+2024-06-22,Rice (Akki),Cereals,Sagar APMC,Shivamogga,Karnataka,6546,19127,13871,390
+2024-06-23,Rice (Akki),Cereals,Chikkamagaluru APMC,Belagavi,Karnataka,2829,15592,11366,53
+2024-06-24,Brinjal,Vegetables,Raichur APMC,Shivamogga,Karnataka,9767,47141,23102,376
+2024-06-25,Tomato,Vegetables,Belagavi APMC,Udupi,Karnataka,7468,56227,28030,459
+2024-06-26,Pomegranate,Fruits,Chikkamagaluru APMC,Belagavi,Karnataka,1929,22460,9232,928
+2024-06-27,Capsicum,Vegetables,Bhadravati APMC,Belagavi,Karnataka,4699,40006,23934,355
+2024-06-28,Banana,Fruits,Hassan APMC,Shivamogga,Karnataka,2054,42889,19308,957
+2024-06-29,Ragi,Cereals,Bhadravati APMC,Davangere,Karnataka,6744,27808,15811,656
+2024-06-30,Copra,Plantation,Hassan APMC,Raichur,Karnataka,2900,24212,9898,770
+2024-07-01,Rice (Akki),Cereals,Hassan APMC,Kalaburagi,Karnataka,7980,55528,28897,274
+2024-07-02,Carrot,Vegetables,Mysuru APMC,Shivamogga,Karnataka,8069,55014,38348,397
+2024-07-03,Capsicum,Vegetables,Raichur APMC,Dharwad,Karnataka,4415,20891,10894,370
+2024-07-04,Bajra,Cereals,Shivamogga APMC,Davangere,Karnataka,1442,36007,21423,608
+2024-07-05,Capsicum,Vegetables,Chikkamagaluru APMC,Dharwad,Karnataka,7218,19600,14051,230
+2024-07-06,Maize,Cereals,Mysuru APMC,Raichur,Karnataka,5652,38115,26603,667
+2024-07-07,Horse Gram,Pulses,Bengaluru APMC,Udupi,Karnataka,8939,52341,24256,760
+2024-07-08,Arecanut (Betel Nut),Plantation,Tumakuru APMC,Hassan,Karnataka,8833,45178,33949,435
+2024-07-09,Grapes,Fruits,Sagar APMC,Raichur,Karnataka,8597,45543,28291,667
+2024-07-10,Onion,Vegetables,Sagar APMC,Vijayapura,Karnataka,5458,29620,22328,841
+2024-07-11,Wheat,Cereals,Kalaburagi APMC,Chikkamagaluru,Karnataka,7591,25988,19818,821
+2024-07-12,Mango,Fruits,Davanagere APMC,Davangere,Karnataka,3309,35644,15875,157
+2024-07-13,Bajra,Cereals,Udupi APMC,Udupi,Karnataka,7268,31662,15134,580
+2024-07-14,Tobacco,Commercial Crops,Udupi APMC,Vijayapura,Karnataka,1910,39107,16873,459
+2024-07-15,Horse Gram,Pulses,Chitradurga APMC,Bengaluru,Karnataka,5340,37350,21698,345
+2024-07-16,Soybean,Oilseeds,Bhadravati APMC,Udupi,Karnataka,5009,39132,17588,867
+2024-07-17,Banana,Fruits,Udupi APMC,Shivamogga,Karnataka,7628,40015,19514,220
+2024-07-18,Black Gram,Pulses,Davanagere APMC,Shivamogga,Karnataka,3169,16059,9421,380
+2024-07-19,Bajra,Cereals,Udupi APMC,Raichur,Karnataka,3172,40941,15005,542
+2024-07-20,Soybean,Oilseeds,Raichur APMC,Chikkamagaluru,Karnataka,6668,24694,12955,244
+2024-07-21,Cabbage,Vegetables,Raichur APMC,Udupi,Karnataka,7313,20619,13518,61
+2024-07-22,Jola (Jowar),Cereals,Bengaluru APMC,Kalaburagi,Karnataka,9315,52980,23517,244
+2024-07-23,Sugarcane,Commercial Crops,Raichur APMC,Tumakuru,Karnataka,9036,28313,17878,539
+2024-07-24,Guava,Fruits,Hubballi APMC,Hassan,Karnataka,7789,32472,19874,844
+2024-07-25,Copra,Plantation,Udupi APMC,Raichur,Karnataka,1785,12455,6912,930
+2024-07-26,Carrot,Vegetables,Vijayapura APMC,Shivamogga,Karnataka,7139,40814,28949,231
+2024-07-27,Jola (Jowar),Cereals,Mysuru APMC,Chikkamagaluru,Karnataka,7344,35233,21624,866
+2024-07-28,Copra,Plantation,Raichur APMC,Hassan,Karnataka,3416,26422,14624,705
+2024-07-29,Sugarcane,Commercial Crops,Davanagere APMC,Udupi,Karnataka,9988,46519,26949,947
+2024-07-30,Capsicum,Vegetables,Vijayapura APMC,Kalaburagi,Karnataka,5154,36793,24993,365
+2024-07-31,Toor Dal,Pulses,Chitradurga APMC,Udupi,Karnataka,6619,33252,24144,743
+2024-08-01,Banana,Fruits,Mysuru APMC,Belagavi,Karnataka,2936,47596,31576,79
+2024-08-02,Turmeric,Commercial Crops,Kalaburagi APMC,Chikkamagaluru,Karnataka,4807,18246,12459,645
+2024-08-03,Watermelon,Fruits,Udupi APMC,Vijayapura,Karnataka,8151,50323,23120,727
+2024-08-04,Coconut,Plantation,Hubballi APMC,Shivamogga,Karnataka,4236,49858,22975,845
+2024-08-05,Turmeric,Commercial Crops,Hassan APMC,Kalaburagi,Karnataka,3352,24929,10223,842
+2024-08-06,Ragi,Cereals,Belagavi APMC,Tumakuru,Karnataka,2932,24695,17564,145
+2024-08-07,Horse Gram,Pulses,Hubballi APMC,Udupi,Karnataka,9556,39732,26585,430
+2024-08-08,Brinjal,Vegetables,Bengaluru APMC,Tumakuru,Karnataka,5916,40171,26419,827
+2024-08-09,Potato,Vegetables,Vijayapura APMC,Udupi,Karnataka,6498,36494,19235,493
+2024-08-10,Tomato,Vegetables,Tumakuru APMC,Shivamogga,Karnataka,1946,47332,30914,347
+2024-08-11,Green Chilli,Vegetables,Raichur APMC,Hassan,Karnataka,2439,33501,14983,857
+2024-08-12,Cauliflower,Vegetables,Tumakuru APMC,Mysuru,Karnataka,8730,54661,22539,786
+2024-08-13,Papaya,Fruits,Dharwad APMC,Hassan,Karnataka,5857,51567,26452,894
+2024-08-14,Toor Dal,Pulses,Hubballi APMC,Udupi,Karnataka,1340,46033,24952,410
+2024-08-15,Soybean,Oilseeds,Tumakuru APMC,Dharwad,Karnataka,1382,47122,23862,423
+2024-08-16,Carrot,Vegetables,Hassan APMC,Chitradurga,Karnataka,9491,31196,23487,603
+2024-08-17,Rice (Akki),Cereals,Vijayapura APMC,Mysuru,Karnataka,1138,39185,14156,352
+2024-08-18,Ragi,Cereals,Mysuru APMC,Vijayapura,Karnataka,1358,22324,12292,470
+2024-08-19,Cowpea,Pulses,Kalaburagi APMC,Mysuru,Karnataka,5931,33305,19760,295
+2024-08-20,Wheat,Cereals,Kalaburagi APMC,Tumakuru,Karnataka,4456,25594,13177,769
+2024-08-21,Pomegranate,Fruits,Tumakuru APMC,Chikkamagaluru,Karnataka,2627,28562,18937,286
+2024-08-22,Capsicum,Vegetables,Sagar APMC,Tumakuru,Karnataka,7626,18115,13931,583
+2024-08-23,Black Gram,Pulses,Kalaburagi APMC,Raichur,Karnataka,6004,38264,25139,234
+2024-08-24,Papaya,Fruits,Bengaluru APMC,Tumakuru,Karnataka,7652,43721,31114,517
+2024-08-25,Copra,Plantation,Tumakuru APMC,Vijayapura,Karnataka,7416,36691,24662,803
+2024-08-26,Soybean,Oilseeds,Raichur APMC,Dharwad,Karnataka,4170,50454,22347,412
+2024-08-27,Jola (Jowar),Cereals,Dharwad APMC,Hassan,Karnataka,4835,54013,33468,332
+2024-08-28,Sugarcane,Commercial Crops,Sagar APMC,Hassan,Karnataka,9017,51838,27134,602
+2024-08-29,Onion,Vegetables,Udupi APMC,Chitradurga,Karnataka,3151,30150,13866,385
+2024-08-30,Banana,Fruits,Belagavi APMC,Bengaluru,Karnataka,7905,56617,23941,211
+2024-08-31,Onion,Vegetables,Bhadravati APMC,Udupi,Karnataka,3834,47556,29963,209
+2024-09-01,Horse Gram,Pulses,Sagar APMC,Dharwad,Karnataka,3567,24192,15620,523
+2024-09-02,Green Gram,Pulses,Davanagere APMC,Bengaluru,Karnataka,2307,13936,6886,650
+2024-09-03,Guava,Fruits,Chikkamagaluru APMC,Raichur,Karnataka,9848,30821,22427,371
+2024-09-04,Grapes,Fruits,Mysuru APMC,Shivamogga,Karnataka,3660,20519,14907,61
+2024-09-05,Turmeric,Commercial Crops,Udupi APMC,Udupi,Karnataka,4730,50776,20534,473
+2024-09-06,Sugarcane,Commercial Crops,Tumakuru APMC,Udupi,Karnataka,7207,39046,19721,122
+2024-09-07,Papaya,Fruits,Hubballi APMC,Belagavi,Karnataka,4162,41378,26495,637
+2024-09-08,Potato,Vegetables,Raichur APMC,Belagavi,Karnataka,2140,31085,14002,907
+2024-09-09,Papaya,Fruits,Thirthahalli APMC,Davangere,Karnataka,9458,25997,18552,250
+2024-09-10,Potato,Vegetables,Belagavi APMC,Davangere,Karnataka,2708,46333,17212,571
+2024-09-11,Cabbage,Vegetables,Kalaburagi APMC,Tumakuru,Karnataka,4630,19516,11788,913
+2024-09-12,Coconut,Plantation,Shivamogga APMC,Shivamogga,Karnataka,4211,21696,14626,554
+2024-09-13,Coconut,Plantation,Vijayapura APMC,Mysuru,Karnataka,7538,48993,31358,787
+2024-09-14,Rice (Akki),Cereals,Belagavi APMC,Chitradurga,Karnataka,1475,28242,18232,737
+2024-09-15,Papaya,Fruits,Bengaluru APMC,Mysuru,Karnataka,8684,47137,33716,837
+2024-09-16,Soybean,Oilseeds,Udupi APMC,Chitradurga,Karnataka,2207,22951,14846,88
+2024-09-17,Guava,Fruits,Bhadravati APMC,Belagavi,Karnataka,2960,50062,29744,109
+2024-09-18,Banana,Fruits,Sagar APMC,Belagavi,Karnataka,1557,23783,8507,627
+2024-09-19,Maize,Cereals,Bengaluru APMC,Belagavi,Karnataka,1882,39751,21346,370
+2024-09-20,Banana,Fruits,Bhadravati APMC,Dharwad,Karnataka,5761,38349,16029,484
+2024-09-21,Sesame,Oilseeds,Belagavi APMC,Chikkamagaluru,Karnataka,6867,30307,21475,685
+2024-09-22,Cotton,Commercial Crops,Belagavi APMC,Chitradurga,Karnataka,7963,49672,25827,725
+2024-09-23,Sugarcane,Commercial Crops,Kalaburagi APMC,Davangere,Karnataka,8166,40661,25225,457
+2024-09-24,Green Gram,Pulses,Sagar APMC,Dharwad,Karnataka,8929,55948,28290,972
+2024-09-25,Toor Dal,Pulses,Tumakuru APMC,Hassan,Karnataka,6347,17269,13042,435
+2024-09-26,Jola (Jowar),Cereals,Dharwad APMC,Mysuru,Karnataka,8269,45795,32834,720
+2024-09-27,Arecanut (Betel Nut),Plantation,Raichur APMC,Raichur,Karnataka,9125,27082,17375,618
+2024-09-28,Banana,Fruits,Udupi APMC,Vijayapura,Karnataka,3454,47452,31840,127
+2024-09-29,Cowpea,Pulses,Vijayapura APMC,Udupi,Karnataka,5494,39525,19339,243
+2024-09-30,Tobacco,Commercial Crops,Udupi APMC,Davangere,Karnataka,2946,22952,13226,334
+2024-10-01,Tobacco,Commercial Crops,Hubballi APMC,Bengaluru,Karnataka,3808,51509,34504,576
+2024-10-02,Cauliflower,Vegetables,Bengaluru APMC,Kalaburagi,Karnataka,7642,43581,23108,573
+2024-10-03,Grapes,Fruits,Tumakuru APMC,Hassan,Karnataka,4825,35149,25494,662
+2024-10-04,Grapes,Fruits,Davanagere APMC,Raichur,Karnataka,4536,37403,15998,205
+2024-10-05,Green Gram,Pulses,Shivamogga APMC,Davangere,Karnataka,7068,17271,10203,389
+2024-10-06,Beans,Vegetables,Raichur APMC,Vijayapura,Karnataka,4802,31346,22365,174
+2024-10-07,Beans,Vegetables,Sagar APMC,Dharwad,Karnataka,5699,31598,14180,920
+2024-10-08,Mango,Fruits,Belagavi APMC,Shivamogga,Karnataka,2970,42033,30187,329
+2024-10-09,Cotton,Commercial Crops,Dharwad APMC,Udupi,Karnataka,6806,42150,30860,966
+2024-10-10,Cauliflower,Vegetables,Kalaburagi APMC,Davangere,Karnataka,7142,20890,12020,955
+2024-10-11,Banana,Fruits,Thirthahalli APMC,Chikkamagaluru,Karnataka,3819,53305,29306,671
+2024-10-12,Brinjal,Vegetables,Kalaburagi APMC,Belagavi,Karnataka,1364,12457,5512,895
+2024-10-13,Banana,Fruits,Davanagere APMC,Belagavi,Karnataka,5258,30486,17147,918
+2024-10-14,Wheat,Cereals,Vijayapura APMC,Udupi,Karnataka,4119,35003,14143,707
+2024-10-15,Copra,Plantation,Shivamogga APMC,Vijayapura,Karnataka,2863,38046,16569,777
+2024-10-16,Maize,Cereals,Dharwad APMC,Chitradurga,Karnataka,1115,27149,12708,959
+2024-10-17,Papaya,Fruits,Hubballi APMC,Raichur,Karnataka,8084,23794,15553,723
+2024-10-18,Arecanut (Betel Nut),Plantation,Hassan APMC,Dharwad,Karnataka,9016,38275,29234,177
+2024-10-19,Brinjal,Vegetables,Hubballi APMC,Belagavi,Karnataka,3384,49343,32023,363
+2024-10-20,Cauliflower,Vegetables,Raichur APMC,Davangere,Karnataka,4935,48392,30790,381
+2024-10-21,Cabbage,Vegetables,Thirthahalli APMC,Bengaluru,Karnataka,8742,38885,24260,199
+2024-10-22,Bajra,Cereals,Udupi APMC,Mysuru,Karnataka,6442,18545,14139,503
+2024-10-23,Papaya,Fruits,Davanagere APMC,Chitradurga,Karnataka,3490,13855,8006,85
+2024-10-24,Pomegranate,Fruits,Davanagere APMC,Mysuru,Karnataka,7980,34083,23213,734
+2024-10-25,Onion,Vegetables,Chikkamagaluru APMC,Hassan,Karnataka,8661,51171,38312,469
+2024-10-26,Cabbage,Vegetables,Chitradurga APMC,Raichur,Karnataka,2724,37200,17406,71
+2024-10-27,Green Chilli,Vegetables,Tumakuru APMC,Tumakuru,Karnataka,9182,31924,22136,255
+2024-10-28,Papaya,Fruits,Dharwad APMC,Chitradurga,Karnataka,3767,26158,18046,688
+2024-10-29,Banana,Fruits,Chikkamagaluru APMC,Shivamogga,Karnataka,2137,49077,33414,897
+2024-10-30,Cotton,Commercial Crops,Belagavi APMC,Udupi,Karnataka,5117,44018,27959,405
+2024-10-31,Capsicum,Vegetables,Bhadravati APMC,Hassan,Karnataka,4420,46421,21785,489
+2024-11-01,Tomato,Vegetables,Tumakuru APMC,Tumakuru,Karnataka,6845,32468,17876,778
+2024-11-02,Banana,Fruits,Thirthahalli APMC,Dharwad,Karnataka,5778,18156,9594,145
+2024-11-03,Jola (Jowar),Cereals,Mysuru APMC,Chitradurga,Karnataka,4906,36278,23866,978
+2024-11-04,Coconut,Plantation,Belagavi APMC,Chikkamagaluru,Karnataka,4637,53074,19996,990
+2024-11-05,Potato,Vegetables,Dharwad APMC,Chikkamagaluru,Karnataka,3953,49456,33342,213
+2024-11-06,Green Chilli,Vegetables,Bengaluru APMC,Shivamogga,Karnataka,6929,47675,21087,197
+2024-11-07,Jola (Jowar),Cereals,Chikkamagaluru APMC,Raichur,Karnataka,1276,39199,15260,579
+2024-11-08,Turmeric,Commercial Crops,Bhadravati APMC,Belagavi,Karnataka,2999,22866,12746,343
+2024-11-09,Onion,Vegetables,Hassan APMC,Davangere,Karnataka,2227,45951,28249,244
+2024-11-10,Capsicum,Vegetables,Raichur APMC,Hassan,Karnataka,7337,26643,14202,712
+2024-11-11,Tobacco,Commercial Crops,Sagar APMC,Kalaburagi,Karnataka,4735,54126,28247,529
+2024-11-12,Tomato,Vegetables,Chitradurga APMC,Chitradurga,Karnataka,1695,26603,13978,926
+2024-11-13,Rice (Akki),Cereals,Davanagere APMC,Hassan,Karnataka,5152,42233,19425,172
+2024-11-14,Beans,Vegetables,Davanagere APMC,Chitradurga,Karnataka,8901,56129,25252,449
+2024-11-15,Rice (Akki),Cereals,Hubballi APMC,Udupi,Karnataka,8470,41856,29656,748
+2024-11-16,Carrot,Vegetables,Raichur APMC,Chitradurga,Karnataka,8537,46839,27726,501
+2024-11-17,Arecanut (Betel Nut),Plantation,Hassan APMC,Udupi,Karnataka,3841,33053,12773,710
+2024-11-18,Turmeric,Commercial Crops,Sagar APMC,Chitradurga,Karnataka,5208,50826,33546,153
+2024-11-19,Banana,Fruits,Raichur APMC,Chikkamagaluru,Karnataka,9733,30431,24063,804
+2024-11-20,Black Gram,Pulses,Bengaluru APMC,Chikkamagaluru,Karnataka,2088,16682,10003,511
+2024-11-21,Watermelon,Fruits,Sagar APMC,Raichur,Karnataka,4363,39888,22178,792
+2024-11-22,Cabbage,Vegetables,Kalaburagi APMC,Vijayapura,Karnataka,1024,25306,16840,767
+2024-11-23,Carrot,Vegetables,Kalaburagi APMC,Bengaluru,Karnataka,7144,31478,23716,759
+2024-11-24,Papaya,Fruits,Raichur APMC,Bengaluru,Karnataka,6668,45847,30247,445
+2024-11-25,Potato,Vegetables,Sagar APMC,Vijayapura,Karnataka,5236,21880,13195,961
+2024-11-26,Onion,Vegetables,Sagar APMC,Belagavi,Karnataka,9068,54686,33560,386
+2024-11-27,Groundnut,Oilseeds,Chitradurga APMC,Bengaluru,Karnataka,3235,46168,28152,648
+2024-11-28,Toor Dal,Pulses,Belagavi APMC,Raichur,Karnataka,8295,51982,24796,191
+2024-11-29,Guava,Fruits,Hubballi APMC,Kalaburagi,Karnataka,9392,36767,22501,366
+2024-11-30,Sugarcane,Commercial Crops,Hassan APMC,Kalaburagi,Karnataka,9448,50374,35310,760
+2024-12-01,Ragi,Cereals,Thirthahalli APMC,Davangere,Karnataka,4747,51354,30935,607
+2024-12-02,Green Gram,Pulses,Dharwad APMC,Davangere,Karnataka,4175,31817,17014,849
+2024-12-03,Soybean,Oilseeds,Davanagere APMC,Kalaburagi,Karnataka,5897,39890,25115,576
+2024-12-04,Sesame,Oilseeds,Bhadravati APMC,Hassan,Karnataka,6037,37225,16868,605
+2024-12-05,Cowpea,Pulses,Chikkamagaluru APMC,Mysuru,Karnataka,8427,51023,28047,450
+2024-12-06,Tomato,Vegetables,Hassan APMC,Vijayapura,Karnataka,9605,47377,32920,730
+2024-12-07,Sunflower,Oilseeds,Sagar APMC,Davangere,Karnataka,3014,43871,18875,359
+2024-12-08,Brinjal,Vegetables,Hassan APMC,Tumakuru,Karnataka,2381,23157,10159,544
+2024-12-09,Mango,Fruits,Sagar APMC,Chikkamagaluru,Karnataka,2098,44933,31240,605
+2024-12-10,Rice (Akki),Cereals,Bhadravati APMC,Udupi,Karnataka,4426,24214,12024,659
+2024-12-11,Capsicum,Vegetables,Udupi APMC,Raichur,Karnataka,4655,20315,10987,822
+2024-12-12,Tomato,Vegetables,Bengaluru APMC,Kalaburagi,Karnataka,8938,23416,18897,158
+2024-12-13,Tobacco,Commercial Crops,Hassan APMC,Bengaluru,Karnataka,1187,19397,12002,844
+2024-12-14,Potato,Vegetables,Hubballi APMC,Vijayapura,Karnataka,6409,27331,18540,421
+2024-12-15,Tobacco,Commercial Crops,Mysuru APMC,Hassan,Karnataka,3092,49381,32771,904
+2024-12-16,Tobacco,Commercial Crops,Davanagere APMC,Kalaburagi,Karnataka,3130,46470,18140,665
+2024-12-17,Bajra,Cereals,Chikkamagaluru APMC,Shivamogga,Karnataka,6242,56092,35274,817
+2024-12-18,Sunflower,Oilseeds,Bhadravati APMC,Udupi,Karnataka,9549,57712,33702,940
+2024-12-19,Pomegranate,Fruits,Hubballi APMC,Tumakuru,Karnataka,6647,35289,24739,255
+2024-12-20,Banana,Fruits,Chitradurga APMC,Bengaluru,Karnataka,6185,27279,16801,896
+2024-12-21,Green Gram,Pulses,Mysuru APMC,Tumakuru,Karnataka,6776,39199,24547,92
+2024-12-22,Wheat,Cereals,Davanagere APMC,Chikkamagaluru,Karnataka,8913,52331,30235,914
+2024-12-23,Watermelon,Fruits,Vijayapura APMC,Kalaburagi,Karnataka,8547,24288,16280,294
+2024-12-24,Maize,Cereals,Kalaburagi APMC,Chitradurga,Karnataka,8823,25661,19047,336
+2024-12-25,Bajra,Cereals,Chitradurga APMC,Chikkamagaluru,Karnataka,8355,21617,15668,404
+2024-12-26,Capsicum,Vegetables,Davanagere APMC,Raichur,Karnataka,7465,22461,15762,834
+2024-12-27,Cauliflower,Vegetables,Vijayapura APMC,Belagavi,Karnataka,2497,34661,17939,525
+2024-12-28,Papaya,Fruits,Belagavi APMC,Hassan,Karnataka,3555,49150,26920,132
+2024-12-29,Turmeric,Commercial Crops,Davanagere APMC,Udupi,Karnataka,6409,46666,30494,159
+2024-12-30,Soybean,Oilseeds,Belagavi APMC,Dharwad,Karnataka,3951,28162,19213,999
+2024-12-31,Groundnut,Oilseeds,Raichur APMC,Dharwad,Karnataka,2238,42691,25645,239
+2025-01-01,Cauliflower,Vegetables,Kalaburagi APMC,Udupi,Karnataka,5727,20959,15927,849
+2025-01-02,Copra,Plantation,Mysuru APMC,Shivamogga,Karnataka,4965,17182,12639,985
+2025-01-03,Arecanut (Betel Nut),Plantation,Belagavi APMC,Raichur,Karnataka,6686,40915,24648,958
+2025-01-04,Copra,Plantation,Sagar APMC,Hassan,Karnataka,4701,28933,18478,300
+2025-01-05,Brinjal,Vegetables,Mysuru APMC,Tumakuru,Karnataka,3780,39393,27659,773
+2025-01-06,Carrot,Vegetables,Bhadravati APMC,Shivamogga,Karnataka,8398,32424,21556,340
+2025-01-07,Pomegranate,Fruits,Mysuru APMC,Mysuru,Karnataka,2588,41142,26874,694
+2025-01-08,Carrot,Vegetables,Belagavi APMC,Udupi,Karnataka,3368,44276,26912,250
+2025-01-09,Tomato,Vegetables,Belagavi APMC,Tumakuru,Karnataka,6789,36399,22209,846
+2025-01-10,Black Gram,Pulses,Shivamogga APMC,Dharwad,Karnataka,1436,51041,21116,375
+2025-01-11,Cowpea,Pulses,Chitradurga APMC,Davangere,Karnataka,3828,20859,11839,560
+2025-01-12,Ragi,Cereals,Vijayapura APMC,Vijayapura,Karnataka,2556,38071,26958,458
+2025-01-13,Ragi,Cereals,Mysuru APMC,Belagavi,Karnataka,8570,55054,34745,656
+2025-01-14,Mango,Fruits,Shivamogga APMC,Dharwad,Karnataka,8480,54662,32761,839
+2025-01-15,Capsicum,Vegetables,Vijayapura APMC,Hassan,Karnataka,1182,11752,8298,990
+2025-01-16,Potato,Vegetables,Hassan APMC,Chitradurga,Karnataka,8190,50444,30779,886
+2025-01-17,Turmeric,Commercial Crops,Belagavi APMC,Chikkamagaluru,Karnataka,7687,36975,22637,557
+2025-01-18,Ragi,Cereals,Chikkamagaluru APMC,Vijayapura,Karnataka,6565,29853,20625,780
+2025-01-19,Soybean,Oilseeds,Belagavi APMC,Vijayapura,Karnataka,8241,48118,31572,650
+2025-01-20,Watermelon,Fruits,Bengaluru APMC,Davangere,Karnataka,8651,37540,19550,121
+2025-01-21,Wheat,Cereals,Thirthahalli APMC,Belagavi,Karnataka,6575,17492,11908,296
+2025-01-22,Tobacco,Commercial Crops,Chitradurga APMC,Kalaburagi,Karnataka,2589,22655,12401,690
+2025-01-23,Cabbage,Vegetables,Tumakuru APMC,Belagavi,Karnataka,9851,49355,27679,773
+2025-01-24,Jola (Jowar),Cereals,Davanagere APMC,Mysuru,Karnataka,1159,18141,9767,989
+2025-01-25,Cowpea,Pulses,Chikkamagaluru APMC,Mysuru,Karnataka,7555,56659,30400,904
+2025-01-26,Carrot,Vegetables,Belagavi APMC,Bengaluru,Karnataka,9244,37306,19900,657
+2025-01-27,Soybean,Oilseeds,Bengaluru APMC,Dharwad,Karnataka,7846,34845,20399,636
+2025-01-28,Pomegranate,Fruits,Bengaluru APMC,Dharwad,Karnataka,3307,23248,9866,984
+2025-01-29,Tobacco,Commercial Crops,Chikkamagaluru APMC,Dharwad,Karnataka,2228,35698,19978,615
+2025-01-30,Cabbage,Vegetables,Tumakuru APMC,Bengaluru,Karnataka,8226,39359,28197,393
+2025-01-31,Sesame,Oilseeds,Kalaburagi APMC,Raichur,Karnataka,6590,21119,15164,974
+2025-02-01,Brinjal,Vegetables,Thirthahalli APMC,Shivamogga,Karnataka,7919,35438,20142,103
+2025-02-02,Wheat,Cereals,Bhadravati APMC,Chitradurga,Karnataka,6585,28777,14016,779
+2025-02-03,Cauliflower,Vegetables,Dharwad APMC,Chitradurga,Karnataka,7046,25612,14117,577
+2025-02-04,Wheat,Cereals,Belagavi APMC,Belagavi,Karnataka,5945,23171,14871,660
+2025-02-05,Cowpea,Pulses,Udupi APMC,Davangere,Karnataka,8927,56857,27276,581
+2025-02-06,Soybean,Oilseeds,Tumakuru APMC,Hassan,Karnataka,8016,39275,24195,607
+2025-02-07,Carrot,Vegetables,Bhadravati APMC,Belagavi,Karnataka,8758,52845,26068,242
+2025-02-08,Carrot,Vegetables,Belagavi APMC,Mysuru,Karnataka,6086,17227,13211,944
+2025-02-09,Cotton,Commercial Crops,Dharwad APMC,Vijayapura,Karnataka,8161,22788,14873,107
+2025-02-10,Watermelon,Fruits,Raichur APMC,Tumakuru,Karnataka,2884,15574,7937,486
+2025-02-11,Guava,Fruits,Hassan APMC,Chikkamagaluru,Karnataka,2809,16064,11092,160
+2025-02-12,Banana,Fruits,Raichur APMC,Bengaluru,Karnataka,4167,19380,10817,178
+2025-02-13,Cauliflower,Vegetables,Mysuru APMC,Udupi,Karnataka,7352,54228,23505,898
+2025-02-14,Pomegranate,Fruits,Bhadravati APMC,Tumakuru,Karnataka,7056,36460,22586,755
+2025-02-15,Tomato,Vegetables,Belagavi APMC,Hassan,Karnataka,3437,38817,22281,974
+2025-02-16,Bengal Gram,Pulses,Sagar APMC,Dharwad,Karnataka,7468,42988,28278,901
+2025-02-17,Wheat,Cereals,Vijayapura APMC,Mysuru,Karnataka,6951,36124,18506,375
+2025-02-18,Guava,Fruits,Chitradurga APMC,Kalaburagi,Karnataka,6276,40265,22506,57
+2025-02-19,Mango,Fruits,Tumakuru APMC,Mysuru,Karnataka,9859,44378,24114,78
+2025-02-20,Green Chilli,Vegetables,Bengaluru APMC,Mysuru,Karnataka,8818,41257,19600,161
+2025-02-21,Bengal Gram,Pulses,Hassan APMC,Dharwad,Karnataka,5728,27141,19660,996
+2025-02-22,Copra,Plantation,Bhadravati APMC,Udupi,Karnataka,3624,28619,18410,722
+2025-02-23,Capsicum,Vegetables,Hubballi APMC,Bengaluru,Karnataka,6738,40297,20852,180
+2025-02-24,Ragi,Cereals,Davanagere APMC,Tumakuru,Karnataka,5232,38745,23321,237
+2025-02-25,Wheat,Cereals,Thirthahalli APMC,Dharwad,Karnataka,6793,21814,12509,724
+2025-02-26,Maize,Cereals,Thirthahalli APMC,Hassan,Karnataka,5523,47987,33383,758
+2025-02-27,Soybean,Oilseeds,Kalaburagi APMC,Bengaluru,Karnataka,6571,37690,17337,524
+2025-02-28,Onion,Vegetables,Thirthahalli APMC,Hassan,Karnataka,3224,42523,15074,413
+2025-03-01,Soybean,Oilseeds,Raichur APMC,Bengaluru,Karnataka,9389,58739,34104,253
+2025-03-02,Rice (Akki),Cereals,Udupi APMC,Udupi,Karnataka,7091,42608,26030,261
+2025-03-03,Brinjal,Vegetables,Raichur APMC,Chikkamagaluru,Karnataka,9662,32779,21951,670
+2025-03-04,Capsicum,Vegetables,Bengaluru APMC,Hassan,Karnataka,7361,39611,17739,325
+2025-03-05,Beans,Vegetables,Shivamogga APMC,Dharwad,Karnataka,2948,31898,15270,122
+2025-03-06,Sugarcane,Commercial Crops,Kalaburagi APMC,Bengaluru,Karnataka,8094,35453,21765,728
+2025-03-07,Onion,Vegetables,Kalaburagi APMC,Chitradurga,Karnataka,7318,40914,20307,821
+2025-03-08,Cowpea,Pulses,Dharwad APMC,Mysuru,Karnataka,4796,40326,27857,292
+2025-03-09,Papaya,Fruits,Hubballi APMC,Raichur,Karnataka,1234,12496,5005,836
+2025-03-10,Banana,Fruits,Udupi APMC,Belagavi,Karnataka,4607,37222,20750,151
+2025-03-11,Banana,Fruits,Thirthahalli APMC,Kalaburagi,Karnataka,9043,22370,16727,734
+2025-03-12,Pomegranate,Fruits,Sagar APMC,Mysuru,Karnataka,1522,41290,17616,220
+2025-03-13,Cowpea,Pulses,Udupi APMC,Shivamogga,Karnataka,6904,45754,28260,702
+2025-03-14,Jola (Jowar),Cereals,Tumakuru APMC,Chikkamagaluru,Karnataka,5888,32736,22849,958
+2025-03-15,Ragi,Cereals,Chikkamagaluru APMC,Chikkamagaluru,Karnataka,6832,56374,25466,237
+2025-03-16,Banana,Fruits,Shivamogga APMC,Mysuru,Karnataka,8122,33282,24901,490
+2025-03-17,Turmeric,Commercial Crops,Chitradurga APMC,Kalaburagi,Karnataka,6842,50840,29784,135
+2025-03-18,Bengal Gram,Pulses,Hubballi APMC,Chitradurga,Karnataka,2316,39546,17941,525
+2025-03-19,Cabbage,Vegetables,Hubballi APMC,Tumakuru,Karnataka,2124,21200,11134,101
+2025-03-20,Groundnut,Oilseeds,Chikkamagaluru APMC,Udupi,Karnataka,6621,20426,12486,160
+2025-03-21,Cowpea,Pulses,Bhadravati APMC,Hassan,Karnataka,6423,47508,30665,998
+2025-03-22,Green Chilli,Vegetables,Dharwad APMC,Dharwad,Karnataka,3587,28302,18874,926
+2025-03-23,Rice (Akki),Cereals,Bhadravati APMC,Chikkamagaluru,Karnataka,6672,22422,16645,903
+2025-03-24,Papaya,Fruits,Thirthahalli APMC,Mysuru,Karnataka,2378,25610,18508,92
+2025-03-25,Tomato,Vegetables,Raichur APMC,Mysuru,Karnataka,4374,50277,32674,260
+2025-03-26,Arecanut (Betel Nut),Plantation,Sagar APMC,Udupi,Karnataka,2519,19472,11683,249
+2025-03-27,Carrot,Vegetables,Belagavi APMC,Chitradurga,Karnataka,6777,48870,25116,859
+2025-03-28,Green Gram,Pulses,Hassan APMC,Udupi,Karnataka,8935,44435,27318,907
+2025-03-29,Cabbage,Vegetables,Tumakuru APMC,Davangere,Karnataka,7093,39511,17351,801
+2025-03-30,Carrot,Vegetables,Hubballi APMC,Chitradurga,Karnataka,9418,53732,35915,676
+2025-03-31,Bengal Gram,Pulses,Chikkamagaluru APMC,Davangere,Karnataka,6355,38804,21878,75
+2025-04-01,Carrot,Vegetables,Bhadravati APMC,Tumakuru,Karnataka,5968,33446,14431,968
+2025-04-02,Mango,Fruits,Hubballi APMC,Raichur,Karnataka,6574,51753,21257,348
+2025-04-03,Toor Dal,Pulses,Dharwad APMC,Raichur,Karnataka,5072,40410,21150,126
+2025-04-04,Maize,Cereals,Chikkamagaluru APMC,Tumakuru,Karnataka,3257,40156,22938,973
+2025-04-05,Horse Gram,Pulses,Sagar APMC,Shivamogga,Karnataka,9588,23733,16458,186
+2025-04-06,Cabbage,Vegetables,Raichur APMC,Chitradurga,Karnataka,5424,47525,28482,69
+2025-04-07,Guava,Fruits,Udupi APMC,Tumakuru,Karnataka,4237,17012,10524,489
+2025-04-08,Potato,Vegetables,Hubballi APMC,Bengaluru,Karnataka,4893,46540,28410,260
+2025-04-09,Cotton,Commercial Crops,Vijayapura APMC,Udupi,Karnataka,3005,32544,14456,801
+2025-04-10,Guava,Fruits,Davanagere APMC,Kalaburagi,Karnataka,3016,49754,19147,600
+2025-04-11,Bengal Gram,Pulses,Chitradurga APMC,Raichur,Karnataka,2772,39388,22492,484
+2025-04-12,Pomegranate,Fruits,Davanagere APMC,Chitradurga,Karnataka,9353,33472,21265,829
+2025-04-13,Black Gram,Pulses,Sagar APMC,Dharwad,Karnataka,4976,40135,15902,256
+2025-04-14,Onion,Vegetables,Shivamogga APMC,Bengaluru,Karnataka,2751,49850,24049,488
+2025-04-15,Papaya,Fruits,Chitradurga APMC,Hassan,Karnataka,9967,30262,16917,828
+2025-04-16,Papaya,Fruits,Hubballi APMC,Mysuru,Karnataka,8430,53140,31346,715
+2025-04-17,Guava,Fruits,Bhadravati APMC,Tumakuru,Karnataka,8170,42855,24067,91
+2025-04-18,Coconut,Plantation,Sagar APMC,Kalaburagi,Karnataka,7469,42948,26814,460
+2025-04-19,Watermelon,Fruits,Raichur APMC,Mysuru,Karnataka,4220,47849,31368,572
+2025-04-20,Capsicum,Vegetables,Udupi APMC,Chitradurga,Karnataka,1539,28572,12889,855
+2025-04-21,Onion,Vegetables,Kalaburagi APMC,Chikkamagaluru,Karnataka,2461,49363,34581,659
+2025-04-22,Tomato,Vegetables,Hubballi APMC,Shivamogga,Karnataka,6184,31592,19250,476
+2025-04-23,Capsicum,Vegetables,Udupi APMC,Chikkamagaluru,Karnataka,9547,36967,24554,324
+2025-04-24,Pomegranate,Fruits,Vijayapura APMC,Shivamogga,Karnataka,1234,27585,16314,497
+2025-04-25,Cowpea,Pulses,Mysuru APMC,Davangere,Karnataka,2548,16679,10556,951
+2025-04-26,Groundnut,Oilseeds,Dharwad APMC,Mysuru,Karnataka,8480,29829,19248,991
+2025-04-27,Tomato,Vegetables,Raichur APMC,Shivamogga,Karnataka,5213,53438,27951,933
+2025-04-28,Potato,Vegetables,Mysuru APMC,Vijayapura,Karnataka,2673,51520,18378,791
+2025-04-29,Papaya,Fruits,Hubballi APMC,Raichur,Karnataka,7708,30161,14642,418
+2025-04-30,Cauliflower,Vegetables,Dharwad APMC,Vijayapura,Karnataka,8982,37796,21752,987
+2025-05-01,Arecanut (Betel Nut),Plantation,Kalaburagi APMC,Vijayapura,Karnataka,3100,31363,15351,269
+2025-05-02,Sugarcane,Commercial Crops,Tumakuru APMC,Belagavi,Karnataka,4748,26906,14832,626
+2025-05-03,Potato,Vegetables,Sagar APMC,Raichur,Karnataka,4173,29908,13318,916
+2025-05-04,Tobacco,Commercial Crops,Udupi APMC,Bengaluru,Karnataka,2815,28645,18191,281
+2025-05-05,Groundnut,Oilseeds,Sagar APMC,Kalaburagi,Karnataka,4841,38767,26648,377
+2025-05-06,Copra,Plantation,Dharwad APMC,Shivamogga,Karnataka,9016,53795,39264,492
+2025-05-07,Guava,Fruits,Hubballi APMC,Shivamogga,Karnataka,8011,21384,14657,101
+2025-05-08,Cowpea,Pulses,Dharwad APMC,Bengaluru,Karnataka,5493,25828,17294,935
+2025-05-09,Copra,Plantation,Tumakuru APMC,Mysuru,Karnataka,1674,35415,23343,992
+2025-05-10,Cowpea,Pulses,Raichur APMC,Mysuru,Karnataka,9088,29780,18758,425
+2025-05-11,Black Gram,Pulses,Udupi APMC,Vijayapura,Karnataka,9578,53635,28248,312
+2025-05-12,Toor Dal,Pulses,Thirthahalli APMC,Bengaluru,Karnataka,3158,14605,10881,316
+2025-05-13,Brinjal,Vegetables,Hassan APMC,Chitradurga,Karnataka,3661,33244,18638,408
+2025-05-14,Sesame,Oilseeds,Chitradurga APMC,Raichur,Karnataka,3064,35829,19411,366
+2025-05-15,Green Chilli,Vegetables,Vijayapura APMC,Vijayapura,Karnataka,4253,38159,16845,373
+2025-05-16,Copra,Plantation,Bhadravati APMC,Chikkamagaluru,Karnataka,5979,35546,16128,970
+2025-05-17,Soybean,Oilseeds,Mysuru APMC,Belagavi,Karnataka,8703,32842,24076,957
+2025-05-18,Wheat,Cereals,Chikkamagaluru APMC,Dharwad,Karnataka,9931,58161,36248,715
+2025-05-19,Papaya,Fruits,Belagavi APMC,Hassan,Karnataka,2401,31921,15104,919
+2025-05-20,Cowpea,Pulses,Raichur APMC,Belagavi,Karnataka,4259,33961,15448,927
+2025-05-21,Potato,Vegetables,Mysuru APMC,Mysuru,Karnataka,4923,40489,23496,701
+2025-05-22,Cotton,Commercial Crops,Kalaburagi APMC,Kalaburagi,Karnataka,5214,22871,14635,988
+2025-05-23,Guava,Fruits,Kalaburagi APMC,Dharwad,Karnataka,4227,51915,22482,612
+2025-05-24,Tomato,Vegetables,Dharwad APMC,Davangere,Karnataka,3745,43879,29453,678
+2025-05-25,Soybean,Oilseeds,Hubballi APMC,Tumakuru,Karnataka,7091,27436,13880,470
+2025-05-26,Watermelon,Fruits,Chitradurga APMC,Kalaburagi,Karnataka,4866,42279,21419,95
+2025-05-27,Watermelon,Fruits,Chikkamagaluru APMC,Vijayapura,Karnataka,6818,22026,15519,870
+2025-05-28,Sesame,Oilseeds,Belagavi APMC,Shivamogga,Karnataka,3222,46677,21023,649
+2025-05-29,Green Chilli,Vegetables,Shivamogga APMC,Chitradurga,Karnataka,3792,41810,27784,769
+2025-05-30,Wheat,Cereals,Chitradurga APMC,Chitradurga,Karnataka,5063,23143,15838,938
+2025-05-31,Papaya,Fruits,Hassan APMC,Bengaluru,Karnataka,2524,34426,22163,318
+2025-06-01,Tomato,Vegetables,Mysuru APMC,Kalaburagi,Karnataka,9224,28710,15998,650
+2025-06-02,Cabbage,Vegetables,Chikkamagaluru APMC,Bengaluru,Karnataka,7198,56060,24604,430
+2025-06-03,Horse Gram,Pulses,Hassan APMC,Shivamogga,Karnataka,5025,36183,17943,167
+2025-06-04,Coconut,Plantation,Raichur APMC,Vijayapura,Karnataka,3566,49437,26833,615
+2025-06-05,Cowpea,Pulses,Udupi APMC,Kalaburagi,Karnataka,3803,49011,30892,165
+2025-06-06,Black Gram,Pulses,Dharwad APMC,Tumakuru,Karnataka,4709,35228,24077,679
+2025-06-07,Bengal Gram,Pulses,Hubballi APMC,Hassan,Karnataka,7155,48534,31227,309
+2025-06-08,Arecanut (Betel Nut),Plantation,Vijayapura APMC,Tumakuru,Karnataka,1719,40097,27487,124
+2025-06-09,Grapes,Fruits,Shivamogga APMC,Dharwad,Karnataka,7516,57408,37227,529
+2025-06-10,Toor Dal,Pulses,Bengaluru APMC,Tumakuru,Karnataka,5579,29610,15732,354
+2025-06-11,Groundnut,Oilseeds,Mysuru APMC,Chitradurga,Karnataka,1972,26508,11934,56
+2025-06-12,Turmeric,Commercial Crops,Kalaburagi APMC,Dharwad,Karnataka,4718,15164,10761,415
+2025-06-13,Black Gram,Pulses,Shivamogga APMC,Tumakuru,Karnataka,8395,55078,26001,683
+2025-06-14,Beans,Vegetables,Bhadravati APMC,Hassan,Karnataka,5402,33020,14712,572
+2025-06-15,Rice (Akki),Cereals,Shivamogga APMC,Kalaburagi,Karnataka,5552,22139,14059,397
+2025-06-16,Wheat,Cereals,Shivamogga APMC,Hassan,Karnataka,3207,44687,29284,487
+2025-06-17,Cabbage,Vegetables,Hassan APMC,Mysuru,Karnataka,5426,48420,20068,264
+2025-06-18,Pomegranate,Fruits,Belagavi APMC,Shivamogga,Karnataka,7919,38446,26747,478
+2025-06-19,Grapes,Fruits,Shivamogga APMC,Hassan,Karnataka,9835,43404,30803,840
+2025-06-20,Copra,Plantation,Belagavi APMC,Dharwad,Karnataka,9386,30537,19812,547
+2025-06-21,Green Gram,Pulses,Tumakuru APMC,Hassan,Karnataka,9680,25238,14704,589
+2025-06-22,Ragi,Cereals,Bhadravati APMC,Mysuru,Karnataka,3204,46158,19090,796
+2025-06-23,Tobacco,Commercial Crops,Chitradurga APMC,Bengaluru,Karnataka,6345,51648,32755,416
+2025-06-24,Arecanut (Betel Nut),Plantation,Tumakuru APMC,Dharwad,Karnataka,4276,48976,30413,362
+2025-06-25,Toor Dal,Pulses,Dharwad APMC,Mysuru,Karnataka,2102,39602,26827,587
+2025-06-26,Potato,Vegetables,Kalaburagi APMC,Chitradurga,Karnataka,6243,18275,12657,970
+2025-06-27,Maize,Cereals,Hubballi APMC,Chikkamagaluru,Karnataka,7614,18866,11548,103
+2025-06-28,Guava,Fruits,Bhadravati APMC,Chikkamagaluru,Karnataka,9707,25216,15113,590
+2025-06-29,Bajra,Cereals,Bengaluru APMC,Davangere,Karnataka,6223,54065,34376,516
+2025-06-30,Green Chilli,Vegetables,Udupi APMC,Tumakuru,Karnataka,9584,33484,18511,914
+2025-07-01,Copra,Plantation,Raichur APMC,Shivamogga,Karnataka,1630,26153,12208,213
+2025-07-02,Watermelon,Fruits,Mysuru APMC,Udupi,Karnataka,7683,19564,13563,831
+2025-07-03,Beans,Vegetables,Chikkamagaluru APMC,Belagavi,Karnataka,1277,44314,14614,383
+2025-07-04,Bengal Gram,Pulses,Sagar APMC,Mysuru,Karnataka,1232,12862,5879,596
+2025-07-05,Carrot,Vegetables,Chitradurga APMC,Bengaluru,Karnataka,6690,37479,20950,847
+2025-07-06,Copra,Plantation,Hassan APMC,Belagavi,Karnataka,8659,41182,22054,397
+2025-07-07,Watermelon,Fruits,Chitradurga APMC,Bengaluru,Karnataka,1025,28983,10937,322
+2025-07-08,Jola (Jowar),Cereals,Hassan APMC,Chitradurga,Karnataka,8468,20163,15382,769
+2025-07-09,Groundnut,Oilseeds,Tumakuru APMC,Raichur,Karnataka,7410,32231,22930,799
+2025-07-10,Brinjal,Vegetables,Hassan APMC,Raichur,Karnataka,9652,22914,14996,463
+2025-07-11,Sugarcane,Commercial Crops,Kalaburagi APMC,Raichur,Karnataka,4764,16209,11743,549
+2025-07-12,Brinjal,Vegetables,Udupi APMC,Belagavi,Karnataka,7599,34035,19607,142
+2025-07-13,Green Gram,Pulses,Mysuru APMC,Mysuru,Karnataka,6102,26051,16130,734
+2025-07-14,Watermelon,Fruits,Mysuru APMC,Udupi,Karnataka,8006,41969,29824,128
+2025-07-15,Ragi,Cereals,Kalaburagi APMC,Belagavi,Karnataka,4483,44415,28441,671
+2025-07-16,Jola (Jowar),Cereals,Hubballi APMC,Mysuru,Karnataka,2994,19895,13507,266
+2025-07-17,Groundnut,Oilseeds,Tumakuru APMC,Hassan,Karnataka,9682,53169,25108,996
+2025-07-18,Brinjal,Vegetables,Chikkamagaluru APMC,Chitradurga,Karnataka,2072,20669,8170,407
+2025-07-19,Potato,Vegetables,Vijayapura APMC,Udupi,Karnataka,7707,24562,18787,667
+2025-07-20,Banana,Fruits,Thirthahalli APMC,Raichur,Karnataka,1215,29893,14267,556
+2025-07-21,Grapes,Fruits,Chitradurga APMC,Dharwad,Karnataka,8605,26868,16187,608
+2025-07-22,Bajra,Cereals,Sagar APMC,Chitradurga,Karnataka,3606,39411,24727,230
+2025-07-23,Capsicum,Vegetables,Hassan APMC,Bengaluru,Karnataka,9350,45493,32285,625
+2025-07-24,Cotton,Commercial Crops,Bengaluru APMC,Raichur,Karnataka,5781,27655,19890,295
+2025-07-25,Soybean,Oilseeds,Dharwad APMC,Chikkamagaluru,Karnataka,4313,41842,20315,293
+2025-07-26,Cotton,Commercial Crops,Chikkamagaluru APMC,Tumakuru,Karnataka,8763,39629,28545,555
+2025-07-27,Horse Gram,Pulses,Kalaburagi APMC,Chikkamagaluru,Karnataka,6939,31018,14557,471
+2025-07-28,Pomegranate,Fruits,Udupi APMC,Raichur,Karnataka,3295,20538,8810,369
+2025-07-29,Guava,Fruits,Udupi APMC,Chitradurga,Karnataka,6685,46557,28591,136
+2025-07-30,Papaya,Fruits,Belagavi APMC,Udupi,Karnataka,2696,21714,8881,266
+2025-07-31,Copra,Plantation,Belagavi APMC,Dharwad,Karnataka,2946,25046,12446,539
+2025-08-01,Sugarcane,Commercial Crops,Dharwad APMC,Bengaluru,Karnataka,3783,33583,20742,568
+2025-08-02,Coconut,Plantation,Thirthahalli APMC,Dharwad,Karnataka,4644,41554,20696,327
+2025-08-03,Sesame,Oilseeds,Belagavi APMC,Belagavi,Karnataka,6241,45678,20905,898
+2025-08-04,Sunflower,Oilseeds,Mysuru APMC,Kalaburagi,Karnataka,7420,55008,27052,771
+2025-08-05,Green Chilli,Vegetables,Udupi APMC,Bengaluru,Karnataka,8557,29558,18701,218
+2025-08-06,Ragi,Cereals,Kalaburagi APMC,Raichur,Karnataka,3645,33587,18321,379
+2025-08-07,Jola (Jowar),Cereals,Chitradurga APMC,Belagavi,Karnataka,7589,38451,26514,699
+2025-08-08,Soybean,Oilseeds,Kalaburagi APMC,Kalaburagi,Karnataka,7353,29022,20356,490
+2025-08-09,Tomato,Vegetables,Davanagere APMC,Mysuru,Karnataka,2932,28848,15442,440
+2025-08-10,Horse Gram,Pulses,Hassan APMC,Udupi,Karnataka,2757,23635,16083,545
+2025-08-11,Cowpea,Pulses,Sagar APMC,Vijayapura,Karnataka,6085,19070,10574,430
+2025-08-12,Bengal Gram,Pulses,Bengaluru APMC,Mysuru,Karnataka,6637,49006,23675,355
+2025-08-13,Capsicum,Vegetables,Sagar APMC,Davangere,Karnataka,2116,20228,13548,791
+2025-08-14,Soybean,Oilseeds,Hubballi APMC,Dharwad,Karnataka,1492,30423,14546,869
+2025-08-15,Green Gram,Pulses,Shivamogga APMC,Vijayapura,Karnataka,9811,47151,35668,722
+2025-08-16,Grapes,Fruits,Tumakuru APMC,Belagavi,Karnataka,8888,19224,13916,562
+2025-08-17,Cowpea,Pulses,Udupi APMC,Hassan,Karnataka,7474,36837,25584,797
+2025-08-18,Onion,Vegetables,Raichur APMC,Mysuru,Karnataka,5958,19926,12396,998
+2025-08-19,Brinjal,Vegetables,Davanagere APMC,Davangere,Karnataka,3743,47421,24271,237
+2025-08-20,Green Gram,Pulses,Thirthahalli APMC,Shivamogga,Karnataka,8866,35145,20774,979
+2025-08-21,Brinjal,Vegetables,Udupi APMC,Vijayapura,Karnataka,8160,21289,15875,565
+2025-08-22,Guava,Fruits,Kalaburagi APMC,Chikkamagaluru,Karnataka,6451,54666,31475,962
+2025-08-23,Carrot,Vegetables,Raichur APMC,Bengaluru,Karnataka,6258,55155,39386,693
+2025-08-24,Green Gram,Pulses,Hassan APMC,Davangere,Karnataka,9548,25398,15894,476
+2025-08-25,Brinjal,Vegetables,Thirthahalli APMC,Udupi,Karnataka,8186,38774,18593,551
+2025-08-26,Brinjal,Vegetables,Bhadravati APMC,Vijayapura,Karnataka,7102,29051,17139,779
+2025-08-27,Pomegranate,Fruits,Thirthahalli APMC,Mysuru,Karnataka,1619,20138,11743,309
+2025-08-28,Guava,Fruits,Bhadravati APMC,Udupi,Karnataka,1882,38257,25319,562
+2025-08-29,Beans,Vegetables,Hubballi APMC,Chikkamagaluru,Karnataka,9988,53070,28879,120
+2025-08-30,Arecanut (Betel Nut),Plantation,Bhadravati APMC,Hassan,Karnataka,4642,26379,16848,527
+2025-08-31,Black Gram,Pulses,Thirthahalli APMC,Dharwad,Karnataka,2296,13430,7196,227
+2025-09-01,Banana,Fruits,Chitradurga APMC,Dharwad,Karnataka,9436,30374,20887,506
+2025-09-02,Sugarcane,Commercial Crops,Tumakuru APMC,Raichur,Karnataka,3895,38381,26446,238
+2025-09-03,Groundnut,Oilseeds,Bengaluru APMC,Udupi,Karnataka,7593,43689,21762,340
+2025-09-04,Brinjal,Vegetables,Udupi APMC,Chitradurga,Karnataka,1929,17521,9128,569
+2025-09-05,Cabbage,Vegetables,Sagar APMC,Belagavi,Karnataka,6366,34474,25966,814
+2025-09-06,Groundnut,Oilseeds,Belagavi APMC,Hassan,Karnataka,9711,36981,27366,969
+2025-09-07,Papaya,Fruits,Kalaburagi APMC,Dharwad,Karnataka,4212,41861,24010,341
+2025-09-08,Bajra,Cereals,Mysuru APMC,Hassan,Karnataka,3409,24406,14047,995
+2025-09-09,Coconut,Plantation,Hubballi APMC,Davangere,Karnataka,9199,52688,27196,805
+2025-09-10,Wheat,Cereals,Shivamogga APMC,Hassan,Karnataka,4423,23527,14107,684
+2025-09-11,Potato,Vegetables,Sagar APMC,Tumakuru,Karnataka,7976,18846,14925,860
+2025-09-12,Rice (Akki),Cereals,Mysuru APMC,Chikkamagaluru,Karnataka,8594,47278,30801,332
+2025-09-13,Bengal Gram,Pulses,Thirthahalli APMC,Dharwad,Karnataka,6158,55677,26759,593
+2025-09-14,Cauliflower,Vegetables,Vijayapura APMC,Hassan,Karnataka,4667,49191,21612,895
+2025-09-15,Wheat,Cereals,Bengaluru APMC,Udupi,Karnataka,6973,47930,23605,426
+2025-09-16,Banana,Fruits,Udupi APMC,Shivamogga,Karnataka,7236,51121,23381,707
+2025-09-17,Ragi,Cereals,Dharwad APMC,Tumakuru,Karnataka,9277,54873,24700,205
+2025-09-18,Coconut,Plantation,Dharwad APMC,Tumakuru,Karnataka,3468,43334,22112,557
+2025-09-19,Capsicum,Vegetables,Bhadravati APMC,Belagavi,Karnataka,7217,47893,21263,462
+2025-09-20,Horse Gram,Pulses,Davanagere APMC,Hassan,Karnataka,4619,28497,13424,577
+2025-09-21,Cotton,Commercial Crops,Davanagere APMC,Raichur,Karnataka,2636,52396,28458,404
+2025-09-22,Carrot,Vegetables,Chitradurga APMC,Belagavi,Karnataka,9155,46714,22896,608
+2025-09-23,Potato,Vegetables,Belagavi APMC,Kalaburagi,Karnataka,4583,21354,10043,812
+2025-09-24,Tobacco,Commercial Crops,Hassan APMC,Belagavi,Karnataka,5009,31535,16334,236
+2025-09-25,Beans,Vegetables,Hubballi APMC,Shivamogga,Karnataka,4326,44222,19811,80
+2025-09-26,Groundnut,Oilseeds,Dharwad APMC,Davangere,Karnataka,9148,51071,30366,309
+2025-09-27,Banana,Fruits,Tumakuru APMC,Hassan,Karnataka,3217,49420,18970,470
+2025-09-28,Mango,Fruits,Bhadravati APMC,Mysuru,Karnataka,5967,55357,35636,578
+2025-09-29,Papaya,Fruits,Tumakuru APMC,Dharwad,Karnataka,3369,26221,18508,600
+2025-09-30,Ragi,Cereals,Chitradurga APMC,Belagavi,Karnataka,4638,16486,11716,353
+2025-10-01,Cotton,Commercial Crops,Raichur APMC,Chikkamagaluru,Karnataka,6722,47749,27774,991
+2025-10-02,Bajra,Cereals,Bhadravati APMC,Bengaluru,Karnataka,5444,50908,34735,993
+2025-10-03,Brinjal,Vegetables,Sagar APMC,Chikkamagaluru,Karnataka,8618,53103,34329,88
+2025-10-04,Arecanut (Betel Nut),Plantation,Davanagere APMC,Shivamogga,Karnataka,4947,34403,13908,538
+2025-10-05,Wheat,Cereals,Davanagere APMC,Shivamogga,Karnataka,2676,21935,11490,693
+2025-10-06,Green Chilli,Vegetables,Shivamogga APMC,Udupi,Karnataka,2196,47750,31368,591
+2025-10-07,Wheat,Cereals,Mysuru APMC,Kalaburagi,Karnataka,3787,27196,14048,719
+2025-10-08,Grapes,Fruits,Udupi APMC,Kalaburagi,Karnataka,8432,22223,12764,327
+2025-10-09,Jola (Jowar),Cereals,Thirthahalli APMC,Davangere,Karnataka,8927,44791,30391,252
+2025-10-10,Tomato,Vegetables,Belagavi APMC,Raichur,Karnataka,4318,50957,33272,115
+2025-10-11,Pomegranate,Fruits,Hubballi APMC,Dharwad,Karnataka,9858,54432,26094,157
+2025-10-12,Pomegranate,Fruits,Chikkamagaluru APMC,Vijayapura,Karnataka,7689,35577,22050,317
+2025-10-13,Bengal Gram,Pulses,Bengaluru APMC,Belagavi,Karnataka,3176,32868,14363,271
+2025-10-14,Bengal Gram,Pulses,Sagar APMC,Chikkamagaluru,Karnataka,4743,38244,24431,853
+2025-10-15,Copra,Plantation,Dharwad APMC,Bengaluru,Karnataka,9792,33096,19314,579
+2025-10-16,Arecanut (Betel Nut),Plantation,Vijayapura APMC,Shivamogga,Karnataka,5422,42949,21427,139
+2025-10-17,Cotton,Commercial Crops,Bengaluru APMC,Shivamogga,Karnataka,4824,32898,22735,742
+2025-10-18,Sesame,Oilseeds,Bengaluru APMC,Davangere,Karnataka,3451,29000,15984,304
+2025-10-19,Black Gram,Pulses,Udupi APMC,Bengaluru,Karnataka,1628,41591,24323,504
+2025-10-20,Ragi,Cereals,Hassan APMC,Chitradurga,Karnataka,8778,44698,25335,302
+2025-10-21,Groundnut,Oilseeds,Shivamogga APMC,Bengaluru,Karnataka,4696,45522,21810,306
+2025-10-22,Maize,Cereals,Davanagere APMC,Davangere,Karnataka,4674,50745,30022,432
+2025-10-23,Ragi,Cereals,Mysuru APMC,Shivamogga,Karnataka,4929,30990,14362,491
+2025-10-24,Turmeric,Commercial Crops,Chikkamagaluru APMC,Dharwad,Karnataka,3765,42575,21198,907
+2025-10-25,Capsicum,Vegetables,Udupi APMC,Hassan,Karnataka,5369,38169,17952,648
+2025-10-26,Mango,Fruits,Shivamogga APMC,Hassan,Karnataka,9307,29247,20839,139
+2025-10-27,Brinjal,Vegetables,Chikkamagaluru APMC,Davangere,Karnataka,5956,19880,15392,798
+2025-10-28,Green Chilli,Vegetables,Davanagere APMC,Bengaluru,Karnataka,1692,39746,28261,439
+2025-10-29,Green Gram,Pulses,Hubballi APMC,Belagavi,Karnataka,4162,23945,13660,631
+2025-10-30,Watermelon,Fruits,Davanagere APMC,Davangere,Karnataka,2105,49358,21054,93
+2025-10-31,Carrot,Vegetables,Udupi APMC,Dharwad,Karnataka,4008,27241,15093,761
+2025-11-01,Mango,Fruits,Davanagere APMC,Davangere,Karnataka,3161,37645,25193,713
+2025-11-02,Jola (Jowar),Cereals,Raichur APMC,Tumakuru,Karnataka,9345,44413,22755,647
+2025-11-03,Cowpea,Pulses,Raichur APMC,Kalaburagi,Karnataka,4699,14890,11637,68
+2025-11-04,Ragi,Cereals,Udupi APMC,Chikkamagaluru,Karnataka,4786,39860,20104,150
+2025-11-05,Wheat,Cereals,Hubballi APMC,Bengaluru,Karnataka,5200,20117,15557,963
+2025-11-06,Cauliflower,Vegetables,Hubballi APMC,Raichur,Karnataka,2913,51512,33795,656
+2025-11-07,Cauliflower,Vegetables,Chitradurga APMC,Udupi,Karnataka,6520,42352,28859,815
+2025-11-08,Arecanut (Betel Nut),Plantation,Udupi APMC,Udupi,Karnataka,2772,33478,15888,406
+2025-11-09,Tomato,Vegetables,Kalaburagi APMC,Bengaluru,Karnataka,3780,27462,10968,591
+2025-11-10,Sunflower,Oilseeds,Dharwad APMC,Raichur,Karnataka,8423,45185,25071,810
+2025-11-11,Pomegranate,Fruits,Bhadravati APMC,Vijayapura,Karnataka,3871,37254,17916,987
+2025-11-12,Cotton,Commercial Crops,Hassan APMC,Dharwad,Karnataka,1660,39456,13564,82
+2025-11-13,Sesame,Oilseeds,Davanagere APMC,Tumakuru,Karnataka,7242,40908,24147,278
+2025-11-14,Rice (Akki),Cereals,Shivamogga APMC,Tumakuru,Karnataka,2132,37794,18580,573
+2025-11-15,Horse Gram,Pulses,Sagar APMC,Shivamogga,Karnataka,1699,46341,26423,679
+2025-11-16,Watermelon,Fruits,Chitradurga APMC,Chikkamagaluru,Karnataka,8470,56001,34540,911
+2025-11-17,Grapes,Fruits,Davanagere APMC,Hassan,Karnataka,7297,27531,14344,204
+2025-11-18,Mango,Fruits,Davanagere APMC,Mysuru,Karnataka,8812,28033,22090,472
+2025-11-19,Grapes,Fruits,Shivamogga APMC,Dharwad,Karnataka,5557,26967,13581,954
+2025-11-20,Mango,Fruits,Raichur APMC,Mysuru,Karnataka,3179,27698,14902,295
+2025-11-21,Coconut,Plantation,Dharwad APMC,Chitradurga,Karnataka,9275,20326,14748,454
+2025-11-22,Cauliflower,Vegetables,Udupi APMC,Mysuru,Karnataka,2422,22187,14780,893
+2025-11-23,Sunflower,Oilseeds,Bengaluru APMC,Bengaluru,Karnataka,4180,25562,11443,808
+2025-11-24,Beans,Vegetables,Kalaburagi APMC,Udupi,Karnataka,5316,27896,15962,590
+2025-11-25,Mango,Fruits,Chikkamagaluru APMC,Udupi,Karnataka,7696,50019,31033,210
+2025-11-26,Grapes,Fruits,Bhadravati APMC,Hassan,Karnataka,1614,23553,10084,796
+2025-11-27,Banana,Fruits,Kalaburagi APMC,Bengaluru,Karnataka,5570,45534,27590,751
+2025-11-28,Onion,Vegetables,Tumakuru APMC,Mysuru,Karnataka,1270,11577,8170,166
+2025-11-29,Sunflower,Oilseeds,Hubballi APMC,Raichur,Karnataka,3468,16827,12806,320
+2025-11-30,Cauliflower,Vegetables,Chikkamagaluru APMC,Chitradurga,Karnataka,4607,44255,17016,819
+2025-12-01,Arecanut (Betel Nut),Plantation,Kalaburagi APMC,Vijayapura,Karnataka,4075,50019,22188,741
+2025-12-02,Wheat,Cereals,Udupi APMC,Kalaburagi,Karnataka,1289,45308,19958,536
+2025-12-03,Cabbage,Vegetables,Chitradurga APMC,Belagavi,Karnataka,9120,57254,31245,934
+2025-12-04,Maize,Cereals,Belagavi APMC,Udupi,Karnataka,7614,44937,22428,221
+2025-12-05,Bengal Gram,Pulses,Vijayapura APMC,Dharwad,Karnataka,4252,20478,10441,999
+2025-12-06,Arecanut (Betel Nut),Plantation,Kalaburagi APMC,Raichur,Karnataka,8415,40104,30021,323
+2025-12-07,Bengal Gram,Pulses,Bengaluru APMC,Dharwad,Karnataka,7771,48742,35115,308
+2025-12-08,Arecanut (Betel Nut),Plantation,Mysuru APMC,Shivamogga,Karnataka,1278,37232,12740,184
+2025-12-09,Sugarcane,Commercial Crops,Kalaburagi APMC,Davangere,Karnataka,1580,36003,16572,732
+2025-12-10,Onion,Vegetables,Shivamogga APMC,Belagavi,Karnataka,5958,46349,24621,771
+2025-12-11,Wheat,Cereals,Mysuru APMC,Udupi,Karnataka,9445,33775,19070,797
+2025-12-12,Mango,Fruits,Chitradurga APMC,Chitradurga,Karnataka,5276,20167,13489,471
+2025-12-13,Bajra,Cereals,Davanagere APMC,Tumakuru,Karnataka,8997,23989,17335,470
+2025-12-14,Rice (Akki),Cereals,Hubballi APMC,Udupi,Karnataka,5776,17737,13433,235
+2025-12-15,Groundnut,Oilseeds,Hubballi APMC,Raichur,Karnataka,1824,24321,15240,978
+2025-12-16,Horse Gram,Pulses,Bhadravati APMC,Shivamogga,Karnataka,4832,47383,26832,413
+2025-12-17,Tomato,Vegetables,Shivamogga APMC,Dharwad,Karnataka,9891,30739,21596,656
+2025-12-18,Soybean,Oilseeds,Chikkamagaluru APMC,Mysuru,Karnataka,6445,29700,15970,427
+2025-12-19,Green Chilli,Vegetables,Bengaluru APMC,Tumakuru,Karnataka,2380,16947,10206,572
+2025-12-20,Horse Gram,Pulses,Kalaburagi APMC,Bengaluru,Karnataka,7534,56815,31962,629
+2025-12-21,Soybean,Oilseeds,Kalaburagi APMC,Chikkamagaluru,Karnataka,4156,34545,14894,940
+2025-12-22,Green Gram,Pulses,Raichur APMC,Mysuru,Karnataka,5307,31874,15855,771
+2025-12-23,Maize,Cereals,Mysuru APMC,Chikkamagaluru,Karnataka,6634,19992,12200,245
+2025-12-24,Turmeric,Commercial Crops,Hubballi APMC,Belagavi,Karnataka,9575,42574,31675,930
+2025-12-25,Maize,Cereals,Mysuru APMC,Vijayapura,Karnataka,6810,27798,15041,147
+2025-12-26,Potato,Vegetables,Raichur APMC,Davangere,Karnataka,9533,51054,26793,654
+2025-12-27,Jola (Jowar),Cereals,Udupi APMC,Vijayapura,Karnataka,6934,22632,13963,71
+2025-12-28,Capsicum,Vegetables,Mysuru APMC,Tumakuru,Karnataka,4109,15382,10484,499
+2025-12-29,Jola (Jowar),Cereals,Dharwad APMC,Hassan,Karnataka,5082,42625,18121,221
+2025-12-30,Beans,Vegetables,Thirthahalli APMC,Tumakuru,Karnataka,4240,45589,32423,432
+2025-12-31,Cabbage,Vegetables,Shivamogga APMC,Vijayapura,Karnataka,7028,28269,20755,183
+2026-01-01,Capsicum,Vegetables,Shivamogga APMC,Udupi,Karnataka,2849,22346,13200,475
+2026-01-02,Copra,Plantation,Vijayapura APMC,Raichur,Karnataka,9497,52200,33821,74
+2026-01-03,Cotton,Commercial Crops,Dharwad APMC,Dharwad,Karnataka,3749,45703,16615,552
+2026-01-04,Wheat,Cereals,Vijayapura APMC,Udupi,Karnataka,7680,25682,15521,234
+2026-01-05,Coconut,Plantation,Davanagere APMC,Udupi,Karnataka,1205,15452,10013,134
+2026-01-06,Brinjal,Vegetables,Hassan APMC,Raichur,Karnataka,8352,40050,18844,616
+2026-01-07,Tobacco,Commercial Crops,Bhadravati APMC,Raichur,Karnataka,5591,35329,17871,812
+2026-01-08,Cotton,Commercial Crops,Kalaburagi APMC,Belagavi,Karnataka,4450,25153,15508,193
+2026-01-09,Bajra,Cereals,Chitradurga APMC,Mysuru,Karnataka,8214,35784,19313,912
+2026-01-10,Ragi,Cereals,Hassan APMC,Hassan,Karnataka,4811,27203,19894,959
+2026-01-11,Wheat,Cereals,Shivamogga APMC,Hassan,Karnataka,6141,48440,21048,728
+2026-01-12,Cowpea,Pulses,Hassan APMC,Udupi,Karnataka,9501,35142,25372,461
+2026-01-13,Carrot,Vegetables,Vijayapura APMC,Chikkamagaluru,Karnataka,3708,27706,15783,273
+2026-01-14,Mango,Fruits,Belagavi APMC,Belagavi,Karnataka,2991,19296,12776,269
+2026-01-15,Sesame,Oilseeds,Hassan APMC,Chitradurga,Karnataka,9463,52189,27591,228
+2026-01-16,Carrot,Vegetables,Belagavi APMC,Udupi,Karnataka,4273,33055,18831,680
+2026-01-17,Beans,Vegetables,Hassan APMC,Davangere,Karnataka,5538,28259,20142,482
+2026-01-18,Black Gram,Pulses,Chikkamagaluru APMC,Dharwad,Karnataka,9712,59475,33934,314
+2026-01-19,Carrot,Vegetables,Thirthahalli APMC,Raichur,Karnataka,4722,27149,14677,478
+2026-01-20,Tobacco,Commercial Crops,Bhadravati APMC,Mysuru,Karnataka,4551,35117,20276,711
+2026-01-21,Cauliflower,Vegetables,Chitradurga APMC,Bengaluru,Karnataka,3832,16062,11010,465
+2026-01-22,Arecanut (Betel Nut),Plantation,Dharwad APMC,Raichur,Karnataka,6679,23190,14562,502
+2026-01-23,Carrot,Vegetables,Thirthahalli APMC,Davangere,Karnataka,7579,43756,32018,776
+2026-01-24,Guava,Fruits,Chitradurga APMC,Chikkamagaluru,Karnataka,1152,15917,7323,246
+2026-01-25,Ragi,Cereals,Chitradurga APMC,Tumakuru,Karnataka,6754,37108,21633,603
+2026-01-26,Green Gram,Pulses,Bhadravati APMC,Kalaburagi,Karnataka,3800,37729,24251,102
+2026-01-27,Papaya,Fruits,Kalaburagi APMC,Tumakuru,Karnataka,6310,45130,28657,529
+2026-01-28,Sunflower,Oilseeds,Belagavi APMC,Vijayapura,Karnataka,3610,43133,29120,492
+2026-01-29,Tobacco,Commercial Crops,Hassan APMC,Davangere,Karnataka,2104,17656,12971,379
+2026-01-30,Sesame,Oilseeds,Belagavi APMC,Vijayapura,Karnataka,8361,18988,13364,300
+2026-01-31,Carrot,Vegetables,Chikkamagaluru APMC,Udupi,Karnataka,5199,27188,12773,856
+2026-02-01,Brinjal,Vegetables,Shivamogga APMC,Bengaluru,Karnataka,4854,28634,12277,939
+2026-02-02,Tomato,Vegetables,Tumakuru APMC,Shivamogga,Karnataka,8263,24852,18063,832
+2026-02-03,Sesame,Oilseeds,Hubballi APMC,Raichur,Karnataka,2914,47726,32024,974
+2026-02-04,Onion,Vegetables,Shivamogga APMC,Shivamogga,Karnataka,8365,46493,23170,172
+2026-02-05,Rice (Akki),Cereals,Udupi APMC,Chikkamagaluru,Karnataka,4072,52724,21751,928
+2026-02-06,Carrot,Vegetables,Tumakuru APMC,Udupi,Karnataka,1406,39196,13683,436
+2026-02-07,Sesame,Oilseeds,Hubballi APMC,Hassan,Karnataka,1166,11415,7613,388
+2026-02-08,Toor Dal,Pulses,Shivamogga APMC,Raichur,Karnataka,1508,30817,13951,827
+2026-02-09,Jola (Jowar),Cereals,Raichur APMC,Vijayapura,Karnataka,2661,38562,19200,397
+2026-02-10,Tomato,Vegetables,Raichur APMC,Hassan,Karnataka,4664,38240,21489,78
+2026-02-11,Coconut,Plantation,Sagar APMC,Mysuru,Karnataka,4489,45997,30879,84
+2026-02-12,Grapes,Fruits,Udupi APMC,Chitradurga,Karnataka,1680,20855,12424,567
+2026-02-13,Papaya,Fruits,Chitradurga APMC,Bengaluru,Karnataka,3524,38988,22888,445
+2026-02-14,Sunflower,Oilseeds,Chikkamagaluru APMC,Chitradurga,Karnataka,3120,29380,12843,672
+2026-02-15,Potato,Vegetables,Sagar APMC,Bengaluru,Karnataka,6260,51700,29220,343
+2026-02-16,Pomegranate,Fruits,Mysuru APMC,Tumakuru,Karnataka,5357,44903,28537,638
+2026-02-17,Brinjal,Vegetables,Dharwad APMC,Belagavi,Karnataka,2363,14350,10626,398
+2026-02-18,Bengal Gram,Pulses,Dharwad APMC,Raichur,Karnataka,3292,38397,16652,196
+2026-02-19,Watermelon,Fruits,Bengaluru APMC,Vijayapura,Karnataka,2538,25486,9510,116
+2026-02-20,Arecanut (Betel Nut),Plantation,Bhadravati APMC,Chitradurga,Karnataka,4408,27434,12009,953
+2026-02-21,Watermelon,Fruits,Dharwad APMC,Chikkamagaluru,Karnataka,8742,21515,14494,569
+2026-02-22,Tobacco,Commercial Crops,Hassan APMC,Shivamogga,Karnataka,9752,29630,22240,171
+2026-02-23,Carrot,Vegetables,Sagar APMC,Kalaburagi,Karnataka,2903,23280,9074,389
+2026-02-24,Potato,Vegetables,Mysuru APMC,Chikkamagaluru,Karnataka,1174,18521,9547,224
+2026-02-25,Arecanut (Betel Nut),Plantation,Vijayapura APMC,Hassan,Karnataka,3230,47006,22128,949
+2026-02-26,Groundnut,Oilseeds,Bhadravati APMC,Hassan,Karnataka,5287,19070,9711,740
+2026-02-27,Sugarcane,Commercial Crops,Chitradurga APMC,Chitradurga,Karnataka,5160,19458,12024,646
+2026-02-28,Potato,Vegetables,Udupi APMC,Kalaburagi,Karnataka,8106,22774,14001,500
+2026-03-01,Maize,Cereals,Davanagere APMC,Davangere,Karnataka,4171,34842,17689,606
+2026-03-02,Bengal Gram,Pulses,Bhadravati APMC,Mysuru,Karnataka,2567,47387,28663,185
+2026-03-03,Jola (Jowar),Cereals,Vijayapura APMC,Raichur,Karnataka,2151,46635,24776,904
+2026-03-04,Coconut,Plantation,Davanagere APMC,Bengaluru,Karnataka,8619,51697,23690,65
+2026-03-05,Guava,Fruits,Hubballi APMC,Dharwad,Karnataka,7033,37955,28201,382
+2026-03-06,Tobacco,Commercial Crops,Udupi APMC,Vijayapura,Karnataka,9560,53588,33968,244
+2026-03-07,Mango,Fruits,Thirthahalli APMC,Chikkamagaluru,Karnataka,5946,36262,24328,545
+2026-03-08,Green Gram,Pulses,Hubballi APMC,Vijayapura,Karnataka,9234,30694,16352,58
+2026-03-09,Turmeric,Commercial Crops,Chikkamagaluru APMC,Hassan,Karnataka,2907,29875,11505,877
+2026-03-10,Copra,Plantation,Vijayapura APMC,Belagavi,Karnataka,4490,44756,16883,383
+2026-03-11,Pomegranate,Fruits,Chitradurga APMC,Tumakuru,Karnataka,3535,43744,18634,382
+2026-03-12,Bajra,Cereals,Dharwad APMC,Shivamogga,Karnataka,5173,39173,21009,376
+2026-03-13,Carrot,Vegetables,Kalaburagi APMC,Mysuru,Karnataka,2293,26304,18484,64
+2026-03-14,Mango,Fruits,Udupi APMC,Belagavi,Karnataka,5769,18635,11981,888
+2026-03-15,Bajra,Cereals,Chikkamagaluru APMC,Mysuru,Karnataka,5796,21694,12411,663
+2026-03-16,Pomegranate,Fruits,Belagavi APMC,Davangere,Karnataka,7871,36266,22772,275
+2026-03-17,Banana,Fruits,Chikkamagaluru APMC,Dharwad,Karnataka,3972,52991,20872,474
+2026-03-18,Tobacco,Commercial Crops,Vijayapura APMC,Chitradurga,Karnataka,4922,52629,30865,839
+2026-03-19,Cotton,Commercial Crops,Hubballi APMC,Chitradurga,Karnataka,5997,20003,13383,457
+2026-03-20,Bajra,Cereals,Hubballi APMC,Hassan,Karnataka,8032,52425,35413,162
+2026-03-21,Bajra,Cereals,Thirthahalli APMC,Tumakuru,Karnataka,1992,22948,16550,477
+2026-03-22,Maize,Cereals,Chikkamagaluru APMC,Kalaburagi,Karnataka,9112,49775,25391,50
+2026-03-23,Cauliflower,Vegetables,Hubballi APMC,Raichur,Karnataka,6287,22365,14388,315
+2026-03-24,Horse Gram,Pulses,Thirthahalli APMC,Kalaburagi,Karnataka,3240,42871,29537,540
+2026-03-25,Cauliflower,Vegetables,Belagavi APMC,Belagavi,Karnataka,2476,42616,27125,257
+2026-03-26,Green Chilli,Vegetables,Bhadravati APMC,Mysuru,Karnataka,7426,21387,14336,671
+2026-03-27,Onion,Vegetables,Dharwad APMC,Bengaluru,Karnataka,1389,40666,28025,761
+2026-03-28,Black Gram,Pulses,Thirthahalli APMC,Davangere,Karnataka,1999,43416,15372,418
+2026-03-29,Jola (Jowar),Cereals,Vijayapura APMC,Bengaluru,Karnataka,2855,35339,24697,355
+2026-03-30,Green Chilli,Vegetables,Dharwad APMC,Tumakuru,Karnataka,9125,37228,18124,61
+2026-03-31,Turmeric,Commercial Crops,Hubballi APMC,Raichur,Karnataka,9850,49195,30267,394
+2026-04-01,Pomegranate,Fruits,Sagar APMC,Raichur,Karnataka,3763,53217,36214,514
+2026-04-02,Guava,Fruits,Mysuru APMC,Belagavi,Karnataka,4663,16250,9357,749
+2026-04-03,Onion,Vegetables,Vijayapura APMC,Vijayapura,Karnataka,5986,37017,21157,715
+2026-04-04,Green Chilli,Vegetables,Bengaluru APMC,Davangere,Karnataka,2481,38693,18042,543
+2026-04-05,Bajra,Cereals,Thirthahalli APMC,Raichur,Karnataka,8256,28606,22111,417
+2026-04-06,Rice (Akki),Cereals,Kalaburagi APMC,Raichur,Karnataka,4731,33547,22869,895
+2026-04-07,Sugarcane,Commercial Crops,Bhadravati APMC,Belagavi,Karnataka,8262,38550,25938,986
+2026-04-08,Brinjal,Vegetables,Raichur APMC,Hassan,Karnataka,1451,40883,22549,469
+2026-04-09,Horse Gram,Pulses,Belagavi APMC,Udupi,Karnataka,4093,20930,14671,938
+2026-04-10,Maize,Cereals,Thirthahalli APMC,Davangere,Karnataka,1882,46099,22085,840
+2026-04-11,Sunflower,Oilseeds,Chikkamagaluru APMC,Bengaluru,Karnataka,5408,36292,20202,220
+2026-04-12,Bajra,Cereals,Tumakuru APMC,Tumakuru,Karnataka,5068,20522,14217,183
+2026-04-13,Cauliflower,Vegetables,Udupi APMC,Raichur,Karnataka,4277,23701,12884,476
+2026-04-14,Grapes,Fruits,Bengaluru APMC,Raichur,Karnataka,9566,56451,24830,74
+2026-04-15,Rice (Akki),Cereals,Tumakuru APMC,Chitradurga,Karnataka,8951,37363,18319,579
+2026-04-16,Sunflower,Oilseeds,Belagavi APMC,Dharwad,Karnataka,5690,55303,22863,239
+2026-04-17,Horse Gram,Pulses,Tumakuru APMC,Hassan,Karnataka,5595,35737,25123,190
+2026-04-18,Green Gram,Pulses,Raichur APMC,Raichur,Karnataka,5559,52951,28729,604
+2026-04-19,Carrot,Vegetables,Bengaluru APMC,Udupi,Karnataka,8291,27139,19320,895
+2026-04-20,Wheat,Cereals,Bengaluru APMC,Dharwad,Karnataka,9160,32296,19737,845
+2026-04-21,Bajra,Cereals,Thirthahalli APMC,Chitradurga,Karnataka,1112,11701,5384,707
+2026-04-22,Carrot,Vegetables,Thirthahalli APMC,Shivamogga,Karnataka,6131,37039,19696,364
+2026-04-23,Maize,Cereals,Tumakuru APMC,Hassan,Karnataka,4197,20706,14394,493
+2026-04-24,Copra,Plantation,Shivamogga APMC,Tumakuru,Karnataka,1139,21107,12123,368
+2026-04-25,Sugarcane,Commercial Crops,Udupi APMC,Mysuru,Karnataka,2424,14886,10837,490
+2026-04-26,Banana,Fruits,Belagavi APMC,Davangere,Karnataka,3949,23409,15078,141
+2026-04-27,Sugarcane,Commercial Crops,Bengaluru APMC,Belagavi,Karnataka,4168,47951,27289,228
+2026-04-28,Cowpea,Pulses,Hubballi APMC,Tumakuru,Karnataka,9708,28983,20195,105
+2026-04-29,Ragi,Cereals,Belagavi APMC,Davangere,Karnataka,7043,45720,33225,204
+2026-04-30,Carrot,Vegetables,Hassan APMC,Dharwad,Karnataka,7989,31258,22306,721
+2026-05-01,Sesame,Oilseeds,Hassan APMC,Vijayapura,Karnataka,8236,18642,11458,160
+2026-05-02,Grapes,Fruits,Hubballi APMC,Belagavi,Karnataka,7261,24645,16190,186
+2026-05-03,Pomegranate,Fruits,Bengaluru APMC,Chikkamagaluru,Karnataka,1887,34440,20616,281
+2026-05-04,Horse Gram,Pulses,Bengaluru APMC,Bengaluru,Karnataka,4104,38470,24706,517
+2026-05-05,Guava,Fruits,Mysuru APMC,Shivamogga,Karnataka,1049,28418,11593,781
+2026-05-06,Groundnut,Oilseeds,Vijayapura APMC,Hassan,Karnataka,4951,26746,19050,530
+2026-05-07,Jola (Jowar),Cereals,Raichur APMC,Raichur,Karnataka,4560,19045,14444,117
+2026-05-08,Banana,Fruits,Davanagere APMC,Vijayapura,Karnataka,1018,13636,5998,863
+2026-05-09,Bajra,Cereals,Thirthahalli APMC,Chitradurga,Karnataka,5821,45964,32036,298
+2026-05-10,Bengal Gram,Pulses,Kalaburagi APMC,Vijayapura,Karnataka,7340,46765,20697,372
+2026-05-11,Wheat,Cereals,Thirthahalli APMC,Tumakuru,Karnataka,9058,41731,19588,971
+2026-05-12,Tomato,Vegetables,Tumakuru APMC,Shivamogga,Karnataka,3606,23209,10500,953
+2026-05-13,Bengal Gram,Pulses,Bengaluru APMC,Mysuru,Karnataka,8846,58542,24903,567
+2026-05-14,Rice (Akki),Cereals,Kalaburagi APMC,Kalaburagi,Karnataka,9643,25011,19448,841
+2026-05-15,Groundnut,Oilseeds,Thirthahalli APMC,Davangere,Karnataka,7432,22053,12164,481
+2026-05-16,Turmeric,Commercial Crops,Bengaluru APMC,Davangere,Karnataka,4765,29484,14867,536
+2026-05-17,Rice (Akki),Cereals,Shivamogga APMC,Tumakuru,Karnataka,3438,42665,16834,655
+2026-05-18,Sugarcane,Commercial Crops,Kalaburagi APMC,Udupi,Karnataka,7358,24924,14704,478
+2026-05-19,Ragi,Cereals,Davanagere APMC,Udupi,Karnataka,9319,31625,16819,318
+2026-05-20,Pomegranate,Fruits,Hubballi APMC,Raichur,Karnataka,6941,40983,26250,758
+2026-05-21,Black Gram,Pulses,Raichur APMC,Chikkamagaluru,Karnataka,8644,33730,17508,586
+2026-05-22,Arecanut (Betel Nut),Plantation,Sagar APMC,Bengaluru,Karnataka,5855,33242,23403,197
+2026-05-23,Black Gram,Pulses,Udupi APMC,Belagavi,Karnataka,7547,44589,30768,167
+2026-05-24,Horse Gram,Pulses,Bhadravati APMC,Mysuru,Karnataka,8196,42084,18548,899
+2026-05-25,Sunflower,Oilseeds,Shivamogga APMC,Raichur,Karnataka,6911,43425,30948,416
+2026-05-26,Onion,Vegetables,Raichur APMC,Shivamogga,Karnataka,7481,35804,16306,899
+2026-05-27,Grapes,Fruits,Vijayapura APMC,Udupi,Karnataka,3761,31780,14853,115
+2026-05-28,Papaya,Fruits,Davanagere APMC,Chikkamagaluru,Karnataka,5456,25346,11681,862
+2026-05-29,Cauliflower,Vegetables,Hubballi APMC,Chikkamagaluru,Karnataka,7361,27644,16171,419
+2026-05-30,Green Chilli,Vegetables,Sagar APMC,Tumakuru,Karnataka,6693,34972,20989,224
+2026-05-31,Wheat,Cereals,Tumakuru APMC,Mysuru,Karnataka,6788,39696,27147,880
+2026-06-01,Sesame,Oilseeds,Chikkamagaluru APMC,Dharwad,Karnataka,1201,49153,22069,637
+2026-06-02,Horse Gram,Pulses,Bengaluru APMC,Belagavi,Karnataka,7160,52330,33458,544
+2026-06-03,Black Gram,Pulses,Hassan APMC,Bengaluru,Karnataka,1517,49180,19391,163
+2026-06-04,Mango,Fruits,Dharwad APMC,Hassan,Karnataka,8737,28080,20347,160
+2026-06-05,Cowpea,Pulses,Belagavi APMC,Tumakuru,Karnataka,2988,23625,11127,810
+2026-06-06,Papaya,Fruits,Bhadravati APMC,Belagavi,Karnataka,4802,49526,20787,488
+2026-06-07,Papaya,Fruits,Sagar APMC,Hassan,Karnataka,6808,56599,25438,764
+2026-06-08,Ragi,Cereals,Tumakuru APMC,Hassan,Karnataka,8162,47296,22752,196
+2026-06-09,Turmeric,Commercial Crops,Kalaburagi APMC,Chitradurga,Karnataka,7241,21148,14266,84
+2026-06-10,Tobacco,Commercial Crops,Sagar APMC,Mysuru,Karnataka,9399,52974,37196,358
+2026-06-11,Cabbage,Vegetables,Bengaluru APMC,Chitradurga,Karnataka,6633,21460,11553,587
+2026-06-12,Green Gram,Pulses,Tumakuru APMC,Mysuru,Karnataka,6755,47362,30420,799
+2026-06-13,Horse Gram,Pulses,Hassan APMC,Raichur,Karnataka,7309,31008,20622,63
+2026-06-14,Pomegranate,Fruits,Raichur APMC,Shivamogga,Karnataka,5117,52409,35810,423
+2026-06-15,Sesame,Oilseeds,Chikkamagaluru APMC,Chikkamagaluru,Karnataka,9345,45228,23614,606
+2026-06-16,Cauliflower,Vegetables,Tumakuru APMC,Belagavi,Karnataka,2518,17831,9869,477
+2026-06-17,Papaya,Fruits,Dharwad APMC,Tumakuru,Karnataka,7163,30761,22981,777
+2026-06-18,Cotton,Commercial Crops,Thirthahalli APMC,Raichur,Karnataka,3600,42407,25487,282
+2026-06-19,Pomegranate,Fruits,Chitradurga APMC,Kalaburagi,Karnataka,3195,18082,9976,754
+2026-06-20,Wheat,Cereals,Bengaluru APMC,Davangere,Karnataka,4554,18408,9438,612
+2026-06-21,Copra,Plantation,Tumakuru APMC,Tumakuru,Karnataka,3849,28385,13786,988
+2026-06-22,Sesame,Oilseeds,Belagavi APMC,Shivamogga,Karnataka,2742,16300,9961,936
+2026-06-23,Carrot,Vegetables,Dharwad APMC,Bengaluru,Karnataka,2306,22078,13917,775
+2026-06-24,Maize,Cereals,Thirthahalli APMC,Vijayapura,Karnataka,4849,51192,21058,712
+2026-06-25,Potato,Vegetables,Mysuru APMC,Vijayapura,Karnataka,8519,53705,32912,489
+2026-06-26,Potato,Vegetables,Davanagere APMC,Chikkamagaluru,Karnataka,5195,52161,29624,551
+2026-06-27,Coconut,Plantation,Shivamogga APMC,Vijayapura,Karnataka,6178,49947,28307,324
+2026-06-28,Turmeric,Commercial Crops,Thirthahalli APMC,Vijayapura,Karnataka,3555,53442,32292,899
+2026-06-29,Green Gram,Pulses,Sagar APMC,Davangere,Karnataka,3305,32534,21865,125
+2026-06-30,Watermelon,Fruits,Hassan APMC,Udupi,Karnataka,8619,28292,17063,488
+2026-07-01,Turmeric,Commercial Crops,Mysuru APMC,Chitradurga,Karnataka,3642,41519,28474,781
+2026-07-02,Sesame,Oilseeds,Shivamogga APMC,Bengaluru,Karnataka,7409,49010,22562,909
+2026-07-03,Capsicum,Vegetables,Chitradurga APMC,Chitradurga,Karnataka,5757,53841,23510,748
+2026-07-04,Grapes,Fruits,Hassan APMC,Mysuru,Karnataka,3994,30238,14668,338
+2026-07-05,Banana,Fruits,Tumakuru APMC,Hassan,Karnataka,9751,47107,22744,964
+2026-07-06,Tomato,Vegetables,Thirthahalli APMC,Udupi,Karnataka,2271,29077,12782,589
+2026-07-07,Sunflower,Oilseeds,Belagavi APMC,Chitradurga,Karnataka,2813,35912,14152,940
+2026-07-08,Banana,Fruits,Raichur APMC,Tumakuru,Karnataka,9801,56835,39371,741
+2026-07-09,Potato,Vegetables,Bhadravati APMC,Tumakuru,Karnataka,3461,32555,13806,302
+2026-07-10,Arecanut (Betel Nut),Plantation,Davanagere APMC,Chitradurga,Karnataka,5120,25709,17451,175
+2026-07-11,Banana,Fruits,Udupi APMC,Chitradurga,Karnataka,7124,18781,10845,226
+2026-07-12,Rice (Akki),Cereals,Mysuru APMC,Vijayapura,Karnataka,9475,52239,38529,86
+2026-07-13,Sesame,Oilseeds,Chitradurga APMC,Mysuru,Karnataka,5396,54927,34345,459
+2026-07-14,Turmeric,Commercial Crops,Mysuru APMC,Shivamogga,Karnataka,1816,14980,5801,660
+2026-07-15,Turmeric,Commercial Crops,Kalaburagi APMC,Belagavi,Karnataka,8304,45846,31037,659
+2026-07-16,Watermelon,Fruits,Sagar APMC,Udupi,Karnataka,8331,36768,22710,176
+2026-07-17,Bajra,Cereals,Udupi APMC,Udupi,Karnataka,1082,49587,30755,532
+2026-07-18,Bajra,Cereals,Sagar APMC,Chitradurga,Karnataka,2920,32521,17987,217
+2026-07-19,Jola (Jowar),Cereals,Chitradurga APMC,Dharwad,Karnataka,8817,47247,30200,641
+2026-07-20,Toor Dal,Pulses,Bhadravati APMC,Bengaluru,Karnataka,3093,19102,12931,343
+2026-07-21,Green Gram,Pulses,Udupi APMC,Chikkamagaluru,Karnataka,8071,22623,14795,894
+2026-07-22,Sunflower,Oilseeds,Bhadravati APMC,Bengaluru,Karnataka,8967,28384,14813,687
+2026-07-23,Cabbage,Vegetables,Chitradurga APMC,Belagavi,Karnataka,9367,22038,17476,392
+2026-07-24,Banana,Fruits,Raichur APMC,Tumakuru,Karnataka,6285,22804,13757,359
+2026-07-25,Cauliflower,Vegetables,Sagar APMC,Chitradurga,Karnataka,5937,52667,29228,711
+2026-07-26,Watermelon,Fruits,Bhadravati APMC,Tumakuru,Karnataka,1369,24103,8260,577
+2026-07-27,Beans,Vegetables,Mysuru APMC,Tumakuru,Karnataka,2818,16540,9636,589
+2026-07-28,Guava,Fruits,Udupi APMC,Dharwad,Karnataka,3101,18007,13455,468
+2026-07-29,Cabbage,Vegetables,Thirthahalli APMC,Tumakuru,Karnataka,4490,44586,20982,493
+2026-07-30,Grapes,Fruits,Davanagere APMC,Belagavi,Karnataka,2779,26478,13637,734
+2026-07-31,Banana,Fruits,Belagavi APMC,Raichur,Karnataka,8674,40112,26747,607
+2026-08-01,Pomegranate,Fruits,Hubballi APMC,Mysuru,Karnataka,2364,45940,29639,889
+2026-08-02,Beans,Vegetables,Vijayapura APMC,Kalaburagi,Karnataka,8294,50541,28022,285
+2026-08-03,Banana,Fruits,Bengaluru APMC,Chikkamagaluru,Karnataka,4676,42614,20757,488
+2026-08-04,Maize,Cereals,Vijayapura APMC,Chitradurga,Karnataka,3426,31026,22060,263
+2026-08-05,Tobacco,Commercial Crops,Udupi APMC,Belagavi,Karnataka,9264,39699,26638,134
+2026-08-06,Rice (Akki),Cereals,Raichur APMC,Vijayapura,Karnataka,9089,37670,19024,843
+2026-08-07,Bengal Gram,Pulses,Vijayapura APMC,Raichur,Karnataka,3962,28153,11886,793
+2026-08-08,Wheat,Cereals,Udupi APMC,Chikkamagaluru,Karnataka,1859,31049,16262,134
+2026-08-09,Bengal Gram,Pulses,Mysuru APMC,Belagavi,Karnataka,5138,42524,19645,970
+2026-08-10,Banana,Fruits,Sagar APMC,Raichur,Karnataka,3424,45145,20179,538
+2026-08-11,Grapes,Fruits,Vijayapura APMC,Tumakuru,Karnataka,5017,28721,20450,114
+2026-08-12,Groundnut,Oilseeds,Belagavi APMC,Mysuru,Karnataka,9560,21683,13631,695
+2026-08-13,Green Chilli,Vegetables,Mysuru APMC,Chitradurga,Karnataka,9342,44516,29959,712
+2026-08-14,Guava,Fruits,Davanagere APMC,Udupi,Karnataka,2134,26720,12176,676
+2026-08-15,Onion,Vegetables,Mysuru APMC,Bengaluru,Karnataka,6166,48142,31525,113
+2026-08-16,Sunflower,Oilseeds,Udupi APMC,Hassan,Karnataka,6119,41535,26978,392
+2026-08-17,Cabbage,Vegetables,Shivamogga APMC,Kalaburagi,Karnataka,6694,18508,10273,988
+2026-08-18,Green Gram,Pulses,Chitradurga APMC,Mysuru,Karnataka,7136,30137,18721,924
+2026-08-19,Wheat,Cereals,Kalaburagi APMC,Udupi,Karnataka,6485,32993,15915,968
+2026-08-20,Cabbage,Vegetables,Mysuru APMC,Shivamogga,Karnataka,5164,34794,24320,401
+2026-08-21,Maize,Cereals,Tumakuru APMC,Chitradurga,Karnataka,3346,26726,18511,207
+2026-08-22,Cowpea,Pulses,Shivamogga APMC,Belagavi,Karnataka,6039,51738,27396,638
+2026-08-23,Rice (Akki),Cereals,Vijayapura APMC,Shivamogga,Karnataka,5897,28214,16559,540
+2026-08-24,Beans,Vegetables,Udupi APMC,Udupi,Karnataka,9252,54991,28522,707
+2026-08-25,Green Chilli,Vegetables,Chitradurga APMC,Mysuru,Karnataka,6041,50826,32314,904
+2026-08-26,Guava,Fruits,Bhadravati APMC,Belagavi,Karnataka,4901,46881,23518,512
+2026-08-27,Guava,Fruits,Dharwad APMC,Chitradurga,Karnataka,2337,36136,16097,274
+2026-08-28,Carrot,Vegetables,Thirthahalli APMC,Vijayapura,Karnataka,2184,47367,23551,966
+2026-08-29,Beans,Vegetables,Shivamogga APMC,Hassan,Karnataka,5426,44592,18609,362
+2026-08-30,Wheat,Cereals,Kalaburagi APMC,Tumakuru,Karnataka,2551,32031,20199,664
+2026-08-31,Sugarcane,Commercial Crops,Belagavi APMC,Belagavi,Karnataka,2629,14238,6170,968
+2026-09-01,Horse Gram,Pulses,Bhadravati APMC,Vijayapura,Karnataka,2526,13243,8504,908
+2026-09-02,Bengal Gram,Pulses,Hassan APMC,Chitradurga,Karnataka,2361,32306,13535,862
+2026-09-03,Turmeric,Commercial Crops,Bhadravati APMC,Chitradurga,Karnataka,5370,40962,19356,989
+2026-09-04,Grapes,Fruits,Hassan APMC,Belagavi,Karnataka,6283,44424,27423,515
+2026-09-05,Bajra,Cereals,Shivamogga APMC,Mysuru,Karnataka,8610,48619,36503,137
+2026-09-06,Green Gram,Pulses,Chikkamagaluru APMC,Vijayapura,Karnataka,2993,19775,13248,932
+2026-09-07,Tomato,Vegetables,Sagar APMC,Mysuru,Karnataka,1869,38405,16130,352
+2026-09-08,Carrot,Vegetables,Thirthahalli APMC,Raichur,Karnataka,2014,45830,18244,729
+2026-09-09,Cowpea,Pulses,Kalaburagi APMC,Udupi,Karnataka,1602,37535,24832,484
+2026-09-10,Carrot,Vegetables,Chitradurga APMC,Davangere,Karnataka,1690,23308,12016,731
+2026-09-11,Groundnut,Oilseeds,Sagar APMC,Belagavi,Karnataka,9685,27992,16181,184
+2026-09-12,Turmeric,Commercial Crops,Chikkamagaluru APMC,Kalaburagi,Karnataka,1489,38160,25138,99
+2026-09-13,Coconut,Plantation,Hubballi APMC,Chitradurga,Karnataka,7864,28202,20604,481
+2026-09-14,Potato,Vegetables,Davanagere APMC,Bengaluru,Karnataka,8240,56586,41771,389
+2026-09-15,Banana,Fruits,Bengaluru APMC,Belagavi,Karnataka,8786,25334,19772,396
+2026-09-16,Turmeric,Commercial Crops,Udupi APMC,Udupi,Karnataka,9024,40188,28991,695
+2026-09-17,Cowpea,Pulses,Hubballi APMC,Chikkamagaluru,Karnataka,1294,38820,13341,396
+2026-09-18,Guava,Fruits,Raichur APMC,Kalaburagi,Karnataka,6488,47710,20576,698
+2026-09-19,Maize,Cereals,Bengaluru APMC,Chitradurga,Karnataka,5027,35203,20948,294
+2026-09-20,Wheat,Cereals,Chitradurga APMC,Shivamogga,Karnataka,3912,16853,10545,158
+2026-09-21,Pomegranate,Fruits,Kalaburagi APMC,Chitradurga,Karnataka,5744,21439,13328,874
+2026-09-22,Green Gram,Pulses,Belagavi APMC,Raichur,Karnataka,2873,52042,25428,848
+2026-09-23,Brinjal,Vegetables,Sagar APMC,Tumakuru,Karnataka,4258,39811,21056,582
+2026-09-24,Green Chilli,Vegetables,Bengaluru APMC,Vijayapura,Karnataka,3817,52782,29657,139
+2026-09-25,Black Gram,Pulses,Dharwad APMC,Chitradurga,Karnataka,9636,57854,24141,345
+2026-09-26,Cabbage,Vegetables,Chitradurga APMC,Davangere,Karnataka,4641,40000,18936,161
